@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
@@ -7,6 +8,7 @@ public class MonsterMethod : MonoBehaviour
 {
     protected MonsterSound sound;
     
+    [SerializeField] protected TextMeshProUGUI bossName;
     
     [SerializeField] private int tempDamage;
     [SerializeField] private GameObject itemPrefab;
@@ -76,8 +78,12 @@ public class MonsterMethod : MonoBehaviour
         damageEffect = GetComponent<DamageEffect>();
         model = ai.GetMonsterModel();
         sound = GetComponent<MonsterSound>();
-        
-        
+
+        SetName();
+    }
+
+    protected virtual void SetName()
+    {
     }
 
     private void Update()

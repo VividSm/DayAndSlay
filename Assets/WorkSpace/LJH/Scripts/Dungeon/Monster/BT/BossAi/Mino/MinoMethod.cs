@@ -6,10 +6,22 @@ using Zenject;
 public class MinoMethod : BossMethod
 {
     private MinoAI mino;
-
+    
 
     [SerializeField] private float buffDuration;
 
+    protected override void SetName()
+    {
+        if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+        {
+            bossName.text = "미노타우르스";
+        }
+        else
+        {
+            bossName.text = "Minotaurs";
+        } 
+    }
+    
     public override void Skill_First()
     {
         HeadButt();

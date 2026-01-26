@@ -13,6 +13,17 @@ public class BellusMethod : BossMethod
         bellus = GetComponent<BellusAI>();
         
     }
+    protected override void SetName()
+    {
+        if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+        {
+            bossName.text = "º§·ç½º";
+        }
+        else
+        {
+            bossName.text = "Bellus";
+        } 
+    }
     
     public override void Skill_First()
     {

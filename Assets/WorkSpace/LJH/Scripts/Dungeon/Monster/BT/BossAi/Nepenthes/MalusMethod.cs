@@ -8,6 +8,17 @@ public class MalusMethod : BossMethod
     [SerializeField] private BellusMethod bellus;
     private MalusAI malusAi;
 
+    protected override void SetName()
+    {
+        if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+        {
+            bossName.text = "¸»·ç½º";
+        }
+        else
+        {
+            bossName.text = "Malus";
+        } 
+    }
     
     public override void Skill_First()
     {

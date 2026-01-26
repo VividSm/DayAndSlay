@@ -11406,6 +11406,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e675433c278270240b311bbd0ebad1f8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  bossName: {fileID: 7949393086064017851}
   tempDamage: 0
   itemPrefab: {fileID: 108242960735011436, guid: c2026446040e1bb428320ea7a48d88a9, type: 3}
   healPack: {fileID: 9201345305476871192, guid: b6b85a199a3e2834584ca75c5a9858c5, type: 3}

@@ -10,6 +10,19 @@ public class BansheeMethod : BossMethod
     private SpiritRush spirit;
     
     private GameObject spiritRushWarningzone;
+
+    protected override void SetName()
+    {
+        if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+        {
+            bossName.text = "¹ê½Ã";
+        }
+        else
+        {
+            bossName.text = "Banshee";
+        } 
+    }
+
     public override void Skill_First()
     {
         Scream();

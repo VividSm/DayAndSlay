@@ -25,7 +25,7 @@ public class StoreManager : InteractableObj
     
     private string[] debtRange_En = new string[]
     {
-        "A Little", "Have", "Have More", "Huge Debt", "Financial Ruin",
+        "Minor liabilities", "Indebted", "Significant debt", "Substantial debt", "Severely leveraged"
     };
 
     private void Start()
