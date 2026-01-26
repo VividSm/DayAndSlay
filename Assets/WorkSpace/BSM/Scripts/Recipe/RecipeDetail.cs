@@ -66,7 +66,16 @@ public class RecipeDetail : MonoBehaviour
         validMaterialIds.Clear();
         ItemNameText.gameObject.SetActive(true);
         ItemImage.gameObject.SetActive(true);
-        ItemNameText.text = itemData.Name;
+        
+        //ItemNameText.text = itemData.Name;
+        if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+        {
+            ItemNameText.text = itemData.Name;
+        }
+        else
+        {
+            ItemNameText.text = itemData.Name_En;
+        }
         ItemImage.sprite = itemData.ItemImage;
 
         if (itemData.ingredients_1 != 0)

@@ -351,7 +351,23 @@ public class DayManager : MonoBehaviour
     /// <param name="minute"></param>
     private void UpdateClockDisplay(int hour, int minute)
     {
-        string ampm = (hour >= 12) ? "오후" : "오전";
+        string am;
+        string pm;
+        
+        if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+        {
+            am = "오전";
+            pm = "오후";
+        }
+        else
+        {
+            am = "AM";
+            pm = "PM";
+        }
+        
+        
+        string ampm = (hour >= 12) ? pm : am;
+        
 
 
         int displayHour;

@@ -171,17 +171,44 @@ private void Start()
         if (IsArmor)
         {
             // TypeButton의 인덱스(0, 1, 2)를 MaterialType_kr Enum(1, 2, 3)으로 변환
-            text.text = ((MaterialType_kr)(MyIndex + 1)).ToString(); 
+            //text.text = ((MaterialType_kr)(MyIndex + 1)).ToString(); 
+            
+            if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+            {
+                text.text = ((MaterialType_kr)(MyIndex + 1)).ToString();
+            }
+            else
+            {
+                text.text = ((MaterialType)(MyIndex + 1)).ToString();
+            }
         }
         else
         {
             if (ParentIndex == 0) // 무기
             {
-                text.text = ((WeaponType_kr)MyIndex).ToString();
+                //text.text = ((WeaponType_kr)MyIndex).ToString();
+                
+                if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+                {
+                    text.text = ((WeaponType_kr)MyIndex).ToString();
+                }
+                else
+                {
+                    text.text = ((WeaponType)MyIndex).ToString();
+                }
             }
             else // 보조무기
             {
-                text.text = ((SubWeaponType_kr)MyIndex).ToString();
+                //text.text = ((SubWeaponType_kr)MyIndex).ToString();
+                
+                if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+                {
+                    text.text = ((SubWeaponType_kr)MyIndex).ToString();
+                }
+                else
+                {
+                    text.text = ((SubWeaponType)MyIndex).ToString();
+                }
             }
         }
     }

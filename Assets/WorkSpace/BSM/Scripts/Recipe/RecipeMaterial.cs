@@ -13,7 +13,15 @@ public class RecipeMaterial : MonoBehaviour
     public void SetMaterialData(ItemData itemData, int requiredItemCount)
     {
         itemImage.sprite = itemData.ItemImage;
-        itemName.text = itemData.Name;
+        if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+        {
+            itemName.text = itemData.Name;
+        }
+        else
+        {
+            itemName.text = itemData.Name_En;
+        }
+        
         int ownedItem = 0;
 
         if (InventoryInteraction.OwnedMaterialDict.ContainsKey(itemData.ItemId))

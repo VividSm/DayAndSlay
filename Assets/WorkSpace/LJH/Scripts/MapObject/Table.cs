@@ -26,16 +26,41 @@ public class Table : InteractableObj
         
         string _objName;
           
-        _objName = popUp.GetComponent<PopUp>().objName = "가판대";
+        //_objName = popUp.GetComponent<PopUp>().objName = "가판대";
+        
+        if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+        {
+            _objName = popUp.GetComponent<PopUp>().objName = "가판대";
+        }
+        else
+        {
+            _objName = popUp.GetComponent<PopUp>().objName = "Table";
+        }
         
 
         if (curItemData != null)
         {
-            popUp.GetComponent<PopUp>().SetText($"{_objName}에서 아이템을 회수하시겠습니까?");
+            //popUp.GetComponent<PopUp>().SetText($"{_objName}에서 아이템을 회수하시겠습니까?");
+            if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+            {
+                popUp.GetComponent<PopUp>().SetText($"{_objName}에서 아이템을 회수하시겠습니까?");
+            }
+            else
+            {
+                popUp.GetComponent<PopUp>().SetText($"Would you like to retrieve the item from {_objName}?");
+            }
         }
         else
         {
-            popUp.GetComponent<PopUp>().SetText($"스페이스바를 눌러서 {_objName}에 아이템을 등록하세요.");
+            //popUp.GetComponent<PopUp>().SetText($"스페이스바를 눌러서 {_objName}에 아이템을 등록하세요.");
+            if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+            {
+                popUp.GetComponent<PopUp>().SetText($"스페이스바를 눌러서 {_objName}에 아이템을 등록하세요.");
+            }
+            else
+            {
+                popUp.GetComponent<PopUp>().SetText($"Press SpaceBar to register an item to {_objName}.");
+            }
         }
 
         popUp.SetActive(!popUp.gameObject.activeSelf);

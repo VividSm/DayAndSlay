@@ -12,7 +12,16 @@ public class PopUp : MonoBehaviour
     {
         if (text.text == "")
         {
-            text.text = $"스페이스바를 눌러서 \n {objName} 사용하기";
+            //text.text = $"스페이스바를 눌러서 \n {objName} 사용하기";
+            
+            if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+            {
+                text.text = $"스페이스바를 눌러서 \n {objName} 사용하기";
+            }
+            else
+            {
+                text.text = $"Use {objName} by pressing SpaceBar";
+            }
         }
     }
 

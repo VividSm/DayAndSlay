@@ -19,7 +19,19 @@ public class ItemButton : MonoBehaviour
     public void SetButtonItem(ItemData itemData)
     {
         this.itemData = itemData;
-        GetComponentInChildren<TextMeshProUGUI>().text = itemData.name;
+        //GetComponentInChildren<TextMeshProUGUI>().text = itemData.name;
+        
+        if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+        {
+            GetComponentInChildren<TextMeshProUGUI>().enableAutoSizing = false;
+            GetComponentInChildren<TextMeshProUGUI>().fontSize = 28;
+            GetComponentInChildren<TextMeshProUGUI>().text = itemData.Name;
+        }
+        else
+        {
+            GetComponentInChildren<TextMeshProUGUI>().enableAutoSizing = true;
+            GetComponentInChildren<TextMeshProUGUI>().text = itemData.Name_En;
+        }
     }
 
     public void Tap_ItemButton()

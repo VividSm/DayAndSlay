@@ -356,8 +356,22 @@ public class InventoryInteraction :
     private void UpdateEquipDetailTab()
     {
         detailItemImage.sprite = selectedSlot.CurSlotItem.ItemImage;
-        detailItemDescA.text = selectedSlot.CurSlotItem.Name;
-        detailItemDescB.text = selectedSlot.CurSlotItem.ItemDescA;
+        if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+        {
+            detailItemDescA.text = selectedSlot.CurSlotItem.Name;
+        }
+        else
+        {
+            detailItemDescA.text = selectedSlot.CurSlotItem.Name_En;
+        }
+        if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+        {
+            detailItemDescB.text = selectedSlot.CurSlotItem.ItemDescA;
+        }
+        else
+        {
+            detailItemDescB.text = selectedSlot.CurSlotItem.ItemDesc_En;
+        }
     }
     
     /// <summary>

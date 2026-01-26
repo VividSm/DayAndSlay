@@ -22,6 +22,11 @@ public class StoreManager : InteractableObj
     {
         "ºúÀÌ Á¶±Ý ÀÖÀ½", "ºúÀÌ ÀÖÀ½", "ºúÀÌ Á¶±Ý ¸¹À½", "ºúÀÌ ¸¹À½", "ºúÀÌ ¸Å¿ì ¸¹À½",
     };
+    
+    private string[] debtRange_En = new string[]
+    {
+        "A Little", "Have", "Have More", "Huge Debt", "Financial Ruin",
+    };
 
     private void Start()
     {
@@ -44,12 +49,29 @@ public class StoreManager : InteractableObj
     {
         if (debt == 0)
         {
-            debtText.text = "ºúÀÌ ¾øÀ½"; 
+            //debtText.text = "ºúÀÌ ¾øÀ½"; 
+            if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+            {
+                debtText.text = "ºúÀÌ ¾øÀ½";
+            }
+            else
+            {
+                debtText.text = "No Debt";
+            }
         }
         else
         {
             int index = (debt / 200000) > 4 ? 4 : debt / 200000;
-            debtText.text = debtRange[index];
+            //debtText.text = debtRange[index];
+            
+            if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+            {
+                debtText.text = debtRange[index];
+            }
+            else
+            {
+                debtText.text = debtRange_En[index];
+            }
         }
     }
 
@@ -72,7 +94,16 @@ public class StoreManager : InteractableObj
         
         if (collision.gameObject.CompareTag("Player"))
         {
-            popUp.GetComponent<PopUp>().SetText("°¡°Ô ¿ÀÇÂÇÏ±â");
+            //popUp.GetComponent<PopUp>().SetText("°¡°Ô ¿ÀÇÂÇÏ±â");
+            
+            if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+            {
+                popUp.GetComponent<PopUp>().SetText("°¡°Ô ¿ÀÇÂÇÏ±â");
+            }
+            else
+            {
+                popUp.GetComponent<PopUp>().SetText("Open Store");
+            }
             popUp.SetActive(!popUp.gameObject.activeSelf);
         }
     }

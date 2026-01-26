@@ -156,7 +156,17 @@ public class IngameManager : MonoBehaviour
     public void AddDay()
     {
         currentDay++;
-        dayText.text = $"{currentDay}老瞒";
+        //dayText.text = $"{currentDay}老瞒";
+        
+        if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+        {
+            dayText.text = $"{currentDay}老瞒";
+        }
+        else
+        {
+            dayText.text = $"{currentDay}Days";
+        }
+        
     }
     
     /// <summary>
@@ -172,7 +182,15 @@ public class IngameManager : MonoBehaviour
     public void SetCurrentDay(int day)
     {
         currentDay = day;
-        dayText.text = $"{currentDay}老瞒";
+        //dayText.text = $"{currentDay}老瞒";
+        if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+        {
+            dayText.text = $"{currentDay}老瞒";
+        }
+        else
+        {
+            dayText.text = $"{currentDay}Days";
+        }
     }
 
     public bool IsTaxDay() => currentDay % 5 == 0;

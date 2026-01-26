@@ -26,7 +26,16 @@ public class PreviewUI : BaseUI
     }
     public void SetPreview(ItemData itemData)
     {
-        itemName.text =  itemData.Name;
+        
+        if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+        {
+            itemName.text = itemData.Name;
+        }
+        else
+        {
+            itemName.text = itemData.Name_En;
+        }
+        
         itemImage.sprite = itemData.ItemImage;
         itemAtk.text = itemData.Attack.ToString();
         itemDef.text = itemData.Defence.ToString();
@@ -68,7 +77,16 @@ public class PreviewUI : BaseUI
             Debug.LogWarning("재료 아이템이 아닙니다.");
         }
         text.color = color;
-        text.text = itemData.Name;
+        //text.text = itemData.Name;
+        
+        if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+        {
+            text.text = itemData.Name;
+        }
+        else
+        {
+            text.text = itemData.Name_En;
+        }
     }
 
 

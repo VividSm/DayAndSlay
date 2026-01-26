@@ -58,12 +58,35 @@ public class RecipeElement : MonoBehaviour
     public void SetElement(ItemData itemData)
     {
         itemImage.sprite = itemData.ItemImage;
-        itemName.text = itemData.Name;
-        itemDescription.text = itemData.ItemDescA;
+        //itemName.text = itemData.Name;
+        if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+        {
+            itemName.text = itemData.Name;
+        }
+        else
+        {
+            itemName.text = itemData.Name_En;
+        }
+        //itemDescription.text = itemData.ItemDescA;
+        if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+        {
+            itemDescription.text = itemData.ItemDescA;
+        }
+        else
+        {
+            itemDescription.text = itemData.ItemDesc_En;
+        }
         curParts = itemData.Parts;
         weaponType = itemData.WeaponType;
         subWeaponType = itemData.SubWeaponType;
-        curItemName = itemData.Name;
+        if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+        {
+            curItemName = itemData.Name;
+        }
+        else
+        {
+            curItemName = itemData.Name_En;
+        }
         
         this.itemData = itemData;
     }

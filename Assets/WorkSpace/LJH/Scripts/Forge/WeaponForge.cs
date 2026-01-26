@@ -21,7 +21,16 @@ public class WeaponForge : InteractableObj
 
     public override void UiOnOffMethod(Collision2D collision)
     {
-        popUp.GetComponent<PopUp>().objName = "무기 제작대";
+        //popUp.GetComponent<PopUp>().objName = "무기 제작대";
+        
+        if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+        {
+            popUp.GetComponent<PopUp>().objName = "무기 제작대";
+        }
+        else
+        {
+            popUp.GetComponent<PopUp>().objName = "Weapon Forge";
+        }
         popUp.SetActive(!popUp.gameObject.activeSelf);
 
         if (inventory == null)

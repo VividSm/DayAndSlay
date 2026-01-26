@@ -87,21 +87,54 @@ public class Door : InteractableObj
         {
             if (DayManager.instance.GetDayOrNight() == DayAndNight.DAY)
             {
-                popUp.GetComponent<PopUp>().SetText($"피곤하긴 하지만 손님이 우선이지..");
+                //popUp.GetComponent<PopUp>().SetText($"피곤하긴 하지만 손님이 우선이지..");
+                
+                if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+                {
+                    popUp.GetComponent<PopUp>().SetText($"피곤하긴 하지만 손님이 우선이지..");
+                }
+                else
+                {
+                    popUp.GetComponent<PopUp>().SetText ("I'm tired… but the customer comes first.");
+                }
             }
             
             switch (doorType)
             {
                 case DoorType.DOOR:
-                    popUp.GetComponent<PopUp>().objName = "문";
+                    //popUp.GetComponent<PopUp>().objName = "문";
+                    if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+                    {
+                        popUp.GetComponent<PopUp>().objName = "문";
+                    }
+                    else
+                    {
+                        popUp.GetComponent<PopUp>().objName = "Door";
+                    }
                     break;
 
                 case DoorType.LADDER:
-                    popUp.GetComponent<PopUp>().objName = "사다리";
+                    //popUp.GetComponent<PopUp>().objName = "사다리";
+                    if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+                    {
+                        popUp.GetComponent<PopUp>().objName = "사다리";
+                    }
+                    else
+                    {
+                        popUp.GetComponent<PopUp>().objName = "Ladder";
+                    }
                     break;
 
                 default:
-                    popUp.GetComponent<PopUp>().objName = "기타";
+                    //popUp.GetComponent<PopUp>().objName = "기타";
+                    if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+                    {
+                        popUp.GetComponent<PopUp>().objName = "기타";
+                    }
+                    else
+                    {
+                        popUp.GetComponent<PopUp>().objName = "E.T.C";
+                    }
                     break;
             }
 
