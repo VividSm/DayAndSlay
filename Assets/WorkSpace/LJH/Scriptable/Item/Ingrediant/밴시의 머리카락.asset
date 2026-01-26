@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uBC34\uC2DC\uC758 \uBA38\uB9AC\uCE74\uB77D"
+  Name_En: Banshee Hair
   Tier: 0
   Strength: 0
   Agility: 0
@@ -34,8 +35,10 @@ MonoBehaviour:
   Range: 0
   BuyPrice: 0
   SellPrice: 0
-  ItemDescA: "\uBC34\uC2DC\uC758 \uBA38\uB9AC\uCE74\uB77D\uC774\uB2E4. \uC624\uB798\uC950\uACE0
-    \uC788\uC73C\uBA74 \uB179\uC744 \uAC83 \uAC19\uB2E4."
+  ItemDescA: "\uBC34\uC2DC\uC758 \uBA38\uB9AC\uCE74\uB77D \uD55C \uC62C. \uC624\uB798
+    \uC950\uACE0 \uC788\uC73C\uBA74 \uB179\uC544\uB0B4\uB9B4 \uAC83\uCC98\uB7FC \uB290\uAEF4\uC9C4\uB2E4."
+  ItemDesc_En: A strand of banshee hair. It feels as though it might melt if held
+    too long.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

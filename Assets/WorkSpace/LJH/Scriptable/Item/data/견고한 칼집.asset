@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uACAC\uACE0\uD55C \uCE7C\uC9D1"
+  Name_En: Reinforced Sheath
   Tier: 2
   Strength: 5
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 200
   ItemDescA: "\uB450\uAEBC\uC6B4 \uAC15\uCCA0 \uBC29\uD328. \uC548\uC815\uC801\uC778
     \uBC29\uC5B4\uB825\uC744 \uC81C\uACF5\uD55C\uB2E4."
+  ItemDesc_En: A thick steel shield. Provides stable defense.
   ingredients_1: 140109
   ingredients_1_Count: 1
   ingredients_2: 140001

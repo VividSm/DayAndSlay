@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uB2E8\uB2E8\uD55C \uB098\uBB34 \uCC3D"
+  Name_En: Hardened Wooden Spear
   Tier: 1
   Strength: 6
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 100
   ItemDescA: "\uAE09\uD558\uAC8C \uAE4E\uC544 \uB9CC\uB4E0 \uB098\uBB34\uCC3D. \uC9C8
     \uC88B\uC740 \uB098\uBB34\uB85C \uB9CC\uB4E4\uC5B4\uC84C\uB2E4"
+  ItemDesc_En: A wooden spear hastily carved. Made from high-quality wood.
   ingredients_1: 140121
   ingredients_1_Count: 1
   ingredients_2: 140005

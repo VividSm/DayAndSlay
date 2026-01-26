@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uBE5B\uC744 \uC783\uC740 \uC2E0\uBE44\uD55C \uC9C0\uD321\uC774"
+  Name_En: Dimmed Mystic Staff
   Tier: 2
   Strength: 0
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 200
   ItemDescA: "\uC2E0\uBE44\uD55C \uD798\uC774 \uD750\uB974\uB294 \uC9C0\uD321\uC774.
     \uBE5B\uC744 \uC783\uC740\uC9C0 \uC624\uB798\uB2E4"
+  ItemDesc_En: A staff infused with mystical power. It has long since lost its light.
   ingredients_1: 140112
   ingredients_1_Count: 1
   ingredients_2: 140007

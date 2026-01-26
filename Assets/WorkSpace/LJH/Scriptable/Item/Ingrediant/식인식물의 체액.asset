@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uC2DD\uC778\uC2DD\uBB3C\uC758 \uCCB4\uC561"
+  Name_En: Man-Eater Plant Fluid
   Tier: 0
   Strength: 0
   Agility: 0
@@ -34,8 +35,9 @@ MonoBehaviour:
   Range: 0
   BuyPrice: 0
   SellPrice: 0
-  ItemDescA: "\uC2DD\uC778 \uC2DD\uBB3C\uC758 \uCCB4\uC561. \uB3C5\uC131\uC744 \uB744\uB294\uB4EF
-    \uD558\uB2E4."
+  ItemDescA: "\uC2DD\uC778 \uC2DD\uBB3C\uC758 \uCCB4\uC561. \uB3C5\uC131\uC744 \uB760\uB294
+    \uAC83\uC73C\uB85C \uBCF4\uC778\uB2E4."
+  ItemDesc_En: The bodily fluid of a man-eating plant. It appears to be toxic.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

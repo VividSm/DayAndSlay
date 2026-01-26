@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uB3C5\uAC70\uBBF8\uC758 \uBD84\uBE44\uC120"
+  Name_En: Venom Spider Gland
   Tier: 0
   Strength: 0
   Agility: 0
@@ -34,8 +35,10 @@ MonoBehaviour:
   Range: 0
   BuyPrice: 0
   SellPrice: 0
-  ItemDescA: "\uAC15\uD55C \uB3C5\uC744 \uD488\uC740 \uBD84\uBE44\uC120. \uB3C5 \uC81C\uC870\uC5D0
-    \uC4F0\uC774\uB294 \uD76C\uADC0 \uC7AC\uB8CC\uB2E4."
+  ItemDescA: "\uAC15\uB825\uD55C \uB3C5\uC774 \uAC00\uB4DD \uCC2C \uBD84\uBE44\uC120.
+    \uB3C5 \uC81C\uC870\uC5D0 \uC4F0\uC774\uB294 \uD76C\uADC0 \uC7AC\uB8CC\uB2E4."
+  ItemDesc_En: A secretion gland filled with potent venom. A rare material for poison
+    crafting.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

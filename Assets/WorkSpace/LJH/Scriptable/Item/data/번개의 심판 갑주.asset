@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 3
   ItemSet: 3
   Name: "\uBC88\uAC1C\uC758 \uC2EC\uD310 \uAC11\uC8FC"
+  Name_En: Armor of Lightning Judgment
   Tier: 4
   Strength: 10
   Agility: 0
@@ -36,6 +37,8 @@ MonoBehaviour:
   SellPrice: 400
   ItemDescA: "\uC2EC\uD310\uC758 \uBC88\uAC1C\uAC00 \uD615\uC0C1\uD654\uB41C \uAC11\uC8FC.
     \uC801\uC744 \uAD73\uAC8C \uB9CC\uB4DC\uB294 \uD798\uC744 \uAC16\uCDC4\uB2E4."
+  ItemDesc_En: Armor shaped from judgmental lightning. Possesses the power to immobilize
+    foes.
   ingredients_1: 140115
   ingredients_1_Count: 1
   ingredients_2: 140103

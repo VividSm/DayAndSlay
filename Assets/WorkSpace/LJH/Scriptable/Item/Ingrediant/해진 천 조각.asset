@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uD574\uC9C4 \uCC9C \uC870\uAC01"
+  Name_En: Tattered Cloth Scrap
   Tier: 0
   Strength: 0
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 0
   ItemDescA: "\uB204\uB354\uAE30\uCC98\uB7FC \uD574\uC5B4\uC9C4 \uCC9C \uC870\uAC01.
     \uAC04\uC774 \uC7AC\uBD09\uC5D0 \uC0AC\uC6A9\uB41C\uB2E4."
+  ItemDesc_En: A ragged scrap of cloth torn to shreds. Used for simple stitching.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

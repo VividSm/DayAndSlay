@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uB179\uC2A8 \uAC80"
+  Name_En: Rusty Sword
   Tier: 1
   Strength: 5
   Agility: 0
@@ -35,6 +36,7 @@ MonoBehaviour:
   BuyPrice: 0
   SellPrice: 100
   ItemDescA: "\uC624\uB79C \uC138\uC6D4 \uB179\uC2A8 \uAC80"
+  ItemDesc_En: A sword rusted over many years.
   ingredients_1: 140121
   ingredients_1_Count: 1
   ingredients_2: 140005

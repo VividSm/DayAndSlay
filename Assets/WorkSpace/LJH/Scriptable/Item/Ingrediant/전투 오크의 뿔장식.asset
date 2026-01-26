@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uC804\uD22C \uC624\uD06C\uC758 \uBFD4\uC7A5\uC2DD"
+  Name_En: Battle Orc Horn Ornament
   Tier: 0
   Strength: 0
   Agility: 0
@@ -34,8 +35,10 @@ MonoBehaviour:
   Range: 0
   BuyPrice: 0
   SellPrice: 0
-  ItemDescA: "\uC804\uC7A5\uC758 \uC624\uD06C\uAC00 \uB2EC\uB358 \uBFD4 \uC7A5\uC2DD.
-    \uD22C\uC9C0\uC758 \uC0C1\uC9D5\uC778 \uD76C\uADC0 \uC7AC\uB8CC\uB2E4."
+  ItemDescA: "\uC804\uC7A5\uC744 \uB204\uBE48 \uC624\uD06C\uAC00 \uCC29\uC6A9\uD558\uB358
+    \uBFD4 \uC7A5\uC2DD. \uD22C\uC9C0\uC758 \uC0C1\uC9D5\uC778 \uD76C\uADC0 \uC7AC\uB8CC\uB2E4."
+  ItemDesc_En: A horn ornament worn by battle-hardened orcs. A rare symbol of fighting
+    spirit.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

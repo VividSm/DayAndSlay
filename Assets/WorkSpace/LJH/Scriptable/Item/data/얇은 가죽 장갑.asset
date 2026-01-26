@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 2
   ItemSet: 0
   Name: "\uC587\uC740 \uAC00\uC8FD \uC7A5\uAC11"
+  Name_En: Thin Leather Gloves
   Tier: 1
   Strength: 0
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 100
   ItemDescA: "\uAC04\uB2E8\uD55C \uAC00\uC8FD \uC7A5\uAC11. \uC190\uC744 \uBCF4\uD638\uD558\uAE30
     \uC704\uD55C \uCD5C\uC18C\uD55C\uC758 \uC7A5\uBE44\uB2E4."
+  ItemDesc_En: Simple leather gloves. Minimal protection for the hands.
   ingredients_1: 140106
   ingredients_1_Count: 1
   ingredients_2: 140019

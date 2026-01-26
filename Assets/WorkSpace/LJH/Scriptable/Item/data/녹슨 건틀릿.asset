@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 3
   ItemSet: 0
   Name: "\uB179\uC2A8 \uAC74\uD2C0\uB9BF"
+  Name_En: Rusty Gauntlets
   Tier: 1
   Strength: 0
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 100
   ItemDescA: "\uB0A1\uC740 \uCCA0\uC81C \uAC74\uD2C0\uB9BF. \uBB34\uAC8C\uB294 \uC788\uC9C0\uB9CC
     \uAC00\uACA9\uC774 \uC2F8\uB2E4."
+  ItemDesc_En: Worn iron gauntlets. Heavy but affordable.
   ingredients_1: 140106
   ingredients_1_Count: 1
   ingredients_2: 140019

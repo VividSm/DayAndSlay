@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 2
   ItemSet: 0
   Name: "\uC0AC\uB0E5\uAFBC\uC758 \uC7A5\uD654"
+  Name_En: "Hunter\u2019s Boots"
   Tier: 2
   Strength: 0
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 200
   ItemDescA: "\uAC00\uC8FD\uC73C\uB85C \uC81C\uC791\uB41C \uC7A5\uD654. \uD5D8\uC9C0\uB97C
     \uBE60\uB974\uAC8C \uD1B5\uACFC\uD560 \uC218 \uC788\uB2E4."
+  ItemDesc_En: Leather boots. Allow swift traversal of rough terrain.
   ingredients_1: 140103
   ingredients_1_Count: 1
   ingredients_2: 140002

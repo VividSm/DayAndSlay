@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uC815\uBC00 \uC870\uC900 \uBD80\uD488"
+  Name_En: Precision Aiming Component
   Tier: 0
   Strength: 0
   Agility: 0
@@ -36,6 +37,8 @@ MonoBehaviour:
   SellPrice: 0
   ItemDescA: "\uC815\uBC00\uD558\uAC8C \uC870\uC815\uB41C \uBD80\uD488. \uACE0\uAE09
     \uC81C\uC791\uC5D0 \uC4F0\uC774\uB294 \uD76C\uADC0 \uC7AC\uB8CC\uB2E4."
+  ItemDesc_En: A precisely calibrated component. A rare material used in advanced
+    crafting.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

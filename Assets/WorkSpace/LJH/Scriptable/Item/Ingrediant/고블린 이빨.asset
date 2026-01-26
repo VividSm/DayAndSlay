@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uACE0\uBE14\uB9B0 \uC774\uBE68"
+  Name_En: Goblin Tooth
   Tier: 0
   Strength: 0
   Agility: 0
@@ -35,7 +36,8 @@ MonoBehaviour:
   BuyPrice: 0
   SellPrice: 0
   ItemDescA: "\uC791\uACE0 \uB0A0\uCE74\uB85C\uC6B4 \uACE0\uBE14\uB9B0\uC758 \uC774\uBE68.
-    \uACF5\uACA9\uC801\uC778 \uAE30\uC6B4\uC774 \uC788\uB2E4."
+    \uACF5\uACA9\uC801\uC778 \uAE30\uC6B4\uC774 \uAE43\uB4E4\uC5B4 \uC788\uB2E4."
+  ItemDesc_En: A small. sharp goblin tooth. It carries an aggressive aura.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

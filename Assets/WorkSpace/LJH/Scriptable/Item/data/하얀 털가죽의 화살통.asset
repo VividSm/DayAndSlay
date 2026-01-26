@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uD558\uC580 \uD138\uAC00\uC8FD\uC758 \uD654\uC0B4\uD1B5"
+  Name_En: White Fur Quiver
   Tier: 3
   Strength: 0
   Agility: 5
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 300
   ItemDescA: "\uC57C\uC0DD \uC9D0\uC2B9\uC758 \uD138\uB85C \uB9CC\uB4E0 \uD654\uC0B4\uD1B5.
     \uBBFC\uCCA9\uD568\uACFC \uC740\uC2E0\uC5D0 \uB3C4\uC6C0\uC744 \uC900\uB2E4."
+  ItemDesc_En: A quiver made from wild beast fur. Enhances agility and stealth.
   ingredients_1: 140109
   ingredients_1_Count: 1
   ingredients_2: 140124

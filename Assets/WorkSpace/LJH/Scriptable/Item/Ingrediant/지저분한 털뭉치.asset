@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uC9C0\uC800\uBD84\uD55C \uD138\uBB49\uCE58"
+  Name_En: Filthy Fur Clump
   Tier: 0
   Strength: 0
   Agility: 0
@@ -35,7 +36,8 @@ MonoBehaviour:
   BuyPrice: 0
   SellPrice: 0
   ItemDescA: "\uC9C0\uC800\uBD84\uD55C \uAE30\uB984\uAE30\uAC00 \uB3C4\uB294 \uD138\uBB49\uCE58.
-    \uB0C4\uC0C8\uAC00 \uACE0\uC57D\uD55C \uC7AC\uB8CC\uB2E4."
+    \uACE0\uC57D\uD55C \uB0C4\uC0C8\uAC00 \uB098\uB294 \uC7AC\uB8CC\uB2E4."
+  ItemDesc_En: A filthy clump of greasy fur. A foul-smelling material.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

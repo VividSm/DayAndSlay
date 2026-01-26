@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 3
   ItemSet: 0
   Name: "\uB179\uC2A8 \uAC01\uBC18"
+  Name_En: Rusty Legguards
   Tier: 1
   Strength: 0
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 100
   ItemDescA: "\uBB34\uAC70\uC6B4 \uCCA0\uC81C \uAC01\uBC18. \uAC78\uC744 \uB54C\uB9C8\uB2E4
     \uC18C\uB9AC\uAC00 \uB09C\uB2E4."
+  ItemDesc_En: Heavy iron legguards. They clang with every step.
   ingredients_1: 140106
   ingredients_1_Count: 1
   ingredients_2: 140019

@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uBB34\uB978 \uAC15\uCCA0 \uB79C\uC2A4"
+  Name_En: Soft Steel Lance
   Tier: 2
   Strength: 6
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 200
   ItemDescA: "\uAC15\uCCA0\uB85C \uB9CC\uB4E0 \uC804\uD22C\uC6A9 \uB79C\uC2A4. \uAC11\uC637\uC744
     \uB6AB\uAE34 \uD798\uB4E4\uC5B4 \uBCF4\uC778\uB2E4"
+  ItemDesc_En: A steel lance made for battle. It struggles to pierce armor.
   ingredients_1: 140112
   ingredients_1_Count: 1
   ingredients_2: 140007

@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uACE0\uBE14\uB9B0 \uBD80\uB450 \uC778\uD615"
+  Name_En: Goblin Voodoo Doll
   Tier: 0
   Strength: 0
   Agility: 0
@@ -34,8 +35,10 @@ MonoBehaviour:
   Range: 0
   BuyPrice: 0
   SellPrice: 0
-  ItemDescA: "\uC8FC\uC220\uC758\uC2DD\uC5D0 \uC4F0\uC778 \uBD80\uB450 \uC778\uD615.
-    \uBD88\uAE38\uD55C \uAE30\uC6B4\uC774 \uB3C4\uB294 \uD76C\uADC0 \uC7AC\uB8CC\uB2E4."
+  ItemDescA: "\uC8FC\uC220 \uC758\uC2DD\uC5D0 \uC0AC\uC6A9\uB41C \uBD80\uB450 \uC778\uD615.
+    \uBD88\uAE38\uD55C \uAE30\uC6B4\uC774 \uAC10\uB3C4\uB294 \uD76C\uADC0 \uC7AC\uB8CC\uB2E4."
+  ItemDesc_En: A voodoo doll used in dark rituals. A rare material imbued with ominous
+    energy.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

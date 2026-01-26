@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uC6A9\uC758 \uC1A1\uACF3\uB2C8"
+  Name_En: Dragon Fang
   Tier: 5
   Strength: 50
   Agility: 0
@@ -36,6 +37,8 @@ MonoBehaviour:
   SellPrice: 500
   ItemDescA: "\uC6A9\uC758 \uC774\uBE68\uB85C \uB9CC\uB4E0 \uC804\uC124\uC758 \uAC80.
     \uC801\uC744 \uBCA0\uC5B4\uB0B8\uB2E4."
+  ItemDesc_En: "A legendary sword forged from a dragon\u2019s fang. It cleaves through
+    enemies."
   ingredients_1: 140131
   ingredients_1_Count: 1
   ingredients_2: 140127

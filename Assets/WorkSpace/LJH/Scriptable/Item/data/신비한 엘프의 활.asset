@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uC2E0\uBE44\uD55C \uC5D8\uD504\uC758 \uD65C"
+  Name_En: Mystic Elven Bow
   Tier: 2
   Strength: 0
   Agility: 8
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 200
   ItemDescA: "\uC5D8\uD504\uAC00 \uB9CC\uB4E0 \uC7A5\uAD81. \uC815\uD655\uC131\uACFC
     \uC704\uB825\uC774 \uB6F0\uC5B4\uB098\uB2E4."
+  ItemDesc_En: A longbow crafted by elves. Exceptional accuracy and power.
   ingredients_1: 140112
   ingredients_1_Count: 1
   ingredients_2: 140007

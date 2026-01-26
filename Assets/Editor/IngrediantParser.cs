@@ -45,16 +45,15 @@ public class IngrediantParser
 
             Debug.Log($"[라인 {i}] 필드 수: {values.Length} / 내용: {line}");
 
-            if (values.Length < 18)
+            if (values.Length < 20)
             {
-                Debug.LogWarning($"라인 {i} 필드 부족: {values.Length}개 (필요: 18개)");
+                Debug.LogWarning($"라인 {i} 필드 부족: {values.Length}개 (필요: 20개)");
                 continue;
             }
 
             try
             {
-                // **수정된 로직 시작**
-                string itemName = values[8]; // 아이템 이름은 인덱스 8
+                string itemName = values[8]; 
                 string assetPath = $"{assetFolder}/{itemName}.asset";
                 
                 ItemData item = AssetDatabase.LoadAssetAtPath<ItemData>(assetPath);
@@ -84,16 +83,18 @@ public class IngrediantParser
                 item.SubWeaponType = (SubWeaponType)System.Enum.Parse(typeof(SubWeaponType), values[6]);
                 item.Tier = int.Parse(values[7]);
                 item.Name = itemName; // 이미 위에서 가져온 이름 사용
-                item.Strength = int.Parse(values[9]);
-                item.Agility = int.Parse(values[10]);
-                item.Intelligence = int.Parse(values[11]);
-                item.Critical = float.Parse(values[12]);
-                item.Hp = int.Parse(values[13]);
-                item.Attack = int.Parse(values[14]);
-                item.Defence = int.Parse(values[15]);
-                item.Range = int.Parse(values[16]);
-                item.SellPrice = int.Parse(values[17]);
-                item.ItemDescA = values[18];
+                item.Name_En = values[9];
+                item.Strength = int.Parse(values[10]);
+                item.Agility = int.Parse(values[11]);
+                item.Intelligence = int.Parse(values[12]);
+                item.Critical = float.Parse(values[13]);
+                item.Hp = int.Parse(values[14]);
+                item.Attack = int.Parse(values[15]);
+                item.Defence = int.Parse(values[16]);
+                item.Range = int.Parse(values[17]);
+                item.SellPrice = int.Parse(values[18]);
+                item.ItemDescA = values[19];
+                item.ItemDesc_En = values[20];
                 
                 // 에셋 저장
                 if (isNew)

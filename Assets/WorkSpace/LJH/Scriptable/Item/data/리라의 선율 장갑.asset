@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 1
   ItemSet: 1
   Name: "\uB9AC\uB77C\uC758 \uC120\uC728 \uC7A5\uAC11"
+  Name_En: "Lyra\u2019s Melody Gloves"
   Tier: 4
   Strength: 0
   Agility: 0
@@ -36,6 +37,8 @@ MonoBehaviour:
   SellPrice: 400
   ItemDescA: "\uACE0\uB300 \uC545\uAE30\uC758 \uC74C\uB960\uC744 \uC9C0\uB2CC \uC7A5\uAC11.
     \uB9C8\uBC95\uC758 \uC815\uBC00\uB3C4\uB97C \uB192\uC5EC\uC900\uB2E4."
+  ItemDesc_En: Gloves carrying the melody of an ancient instrument. Increase magical
+    precision.
   ingredients_1: 140115
   ingredients_1_Count: 1
   ingredients_2: 140103

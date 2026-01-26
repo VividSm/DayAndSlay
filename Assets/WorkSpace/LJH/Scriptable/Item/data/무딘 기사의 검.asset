@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uBB34\uB518 \uAE30\uC0AC\uC758 \uAC80"
+  Name_En: "Dull Knight\u2019s Sword"
   Tier: 2
   Strength: 6
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 200
   ItemDescA: "\uAE30\uC0AC\uB4E4\uC774 \uC0AC\uC6A9\uD558\uB358 \uAC80. \uAC80 \uB05D\uC774
     \uBB34\uB514\uB2E4"
+  ItemDesc_En: A sword once used by knights. Its tip has grown dull.
   ingredients_1: 140112
   ingredients_1_Count: 1
   ingredients_2: 140007

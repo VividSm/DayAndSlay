@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 2
   ItemSet: 0
   Name: "\uC0AC\uB0E5\uAFBC\uC758 \uBC14\uC9C0"
+  Name_En: "Hunter\u2019s Pants"
   Tier: 2
   Strength: 0
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 200
   ItemDescA: "\uD2BC\uD2BC\uD558\uACE0 \uAC00\uBCBC\uC6B4 \uBC14\uC9C0. \uAE30\uB3D9\uC131\uC774
     \uB6F0\uC5B4\uB09C \uC7A5\uBE44\uB2E4."
+  ItemDesc_En: Sturdy yet light pants. Excellent mobility.
   ingredients_1: 140103
   ingredients_1_Count: 1
   ingredients_2: 140002

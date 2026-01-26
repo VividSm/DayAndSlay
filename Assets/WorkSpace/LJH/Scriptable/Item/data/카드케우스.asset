@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uCE74\uB4DC\uCF00\uC6B0\uC2A4"
+  Name_En: Caduceus
   Tier: 4
   Strength: 0
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 400
   ItemDescA: "\uC758\uB85C\uC6B4 \uC790\uC758 \uC758\uC220\uACFC \uC911\uC7AC\uC758
     \uC0C1\uC9D5"
+  ItemDesc_En: A symbol of righteous healing and mediation.
   ingredients_1: 140118
   ingredients_1_Count: 1
   ingredients_2: 140121

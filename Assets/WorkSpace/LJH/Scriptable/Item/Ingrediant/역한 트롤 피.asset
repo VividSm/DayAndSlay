@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uC5ED\uD55C \uD2B8\uB864 \uD53C"
+  Name_En: Foul Troll Blood
   Tier: 0
   Strength: 0
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 0
   ItemDescA: "\uC369\uC740 \uB0C4\uC0C8\uAC00 \uB098\uB294 \uD53C. \uC5ED\uD55C \uC131\uC9C8\uC744
     \uC9C0\uB2CC \uD2B9\uC218 \uC7AC\uB8CC\uB2E4."
+  ItemDesc_En: Foul-smelling blood. A special material with repulsive properties.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

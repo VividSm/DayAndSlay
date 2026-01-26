@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uD669\uC18C\uC778\uAC04\uC758 \uC637\uC870\uAC01"
+  Name_En: Minotaur Cloth Scrap
   Tier: 0
   Strength: 0
   Agility: 0
@@ -34,8 +35,10 @@ MonoBehaviour:
   Range: 0
   BuyPrice: 0
   SellPrice: 0
-  ItemDescA: "\uD669\uC18C\uC778\uAC04\uC758 \uC637\uC870\uAC01. \uAC70\uCE60\uAC8C
+  ItemDescA: "\uD669\uC18C\uC778\uAC04\uC758 \uC637 \uC870\uAC01. \uAC70\uCE60\uAC8C
     \uCC22\uACA8 \uB540\uACFC \uD759 \uB0C4\uC0C8\uAC00 \uBC34 \uCC9C\uC774\uB2E4."
+  ItemDesc_En: A torn piece of clothing from a minotaur. Roughly ripped and soaked
+    with sweat and dirt.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uBD09\uC778\uB41C \uBC31\uC758 \uB9C8\uB3C4\uC11C"
+  Name_En: Sealed White Grimoire
   Tier: 3
   Strength: 0
   Agility: 0
@@ -37,6 +38,8 @@ MonoBehaviour:
   ItemDescA: "\uACE0\uB300 \uC8FC\uBB38\uC774 \uC7A0\uB4E0 \uBC31\uC0C9 \uB9C8\uB3C4\uC11C.
     \uBD09\uC778\uC744 \uD574\uC81C\uD558\uBA74 \uAC15\uB825\uD55C \uB9C8\uBC95\uC744
     \uC0AC\uC6A9\uD560 \uC218 \uC788\uB2E4."
+  ItemDesc_En: A white grimoire sealing ancient spells. Unsealing it unleashes immense
+    magic.
   ingredients_1: 140109
   ingredients_1_Count: 1
   ingredients_2: 140124

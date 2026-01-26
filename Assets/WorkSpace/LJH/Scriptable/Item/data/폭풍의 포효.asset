@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uD3ED\uD48D\uC758 \uD3EC\uD6A8"
+  Name_En: Roar of the Storm
   Tier: 5
   Strength: 0
   Agility: 45
@@ -36,6 +37,8 @@ MonoBehaviour:
   SellPrice: 500
   ItemDescA: "\uD3ED\uD48D\uC758 \uBD84\uB178\uAC00 \uD65C\uC5D0 \uAE43\uB4E4\uC5C8\uB2E4.
     \uC3D8\uB294 \uC21C\uAC04. \uD558\uB298\uC774 \uAC08\uB77C\uC9C4\uB2E4."
+  ItemDesc_En: The wrath of storms dwells within this bow. When fired. the sky splits
+    apart.
   ingredients_1: 140131
   ingredients_1_Count: 1
   ingredients_2: 140127

@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 3
   ItemSet: 6
   Name: "\uC6A9\uAE30\uC0AC\uC758 \uAC74\uD2C0\uB9BF"
+  Name_En: Dragon Knight Gauntlets
   Tier: 5
   Strength: 5
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 500
   ItemDescA: "\uBE44\uB298\uCC98\uB7FC \uB2E8\uB2E8\uD55C \uAC74\uD2C0\uB9BF. \uC6A9\uC758
     \uBC1C\uD1B1\uC870\uCC28 \uD295\uACA8\uB0B8\uB2E4."
+  ItemDesc_En: Gauntlets as hard as scales. Even dragon claws are deflected.
   ingredients_1: 140132
   ingredients_1_Count: 1
   ingredients_2: 140128

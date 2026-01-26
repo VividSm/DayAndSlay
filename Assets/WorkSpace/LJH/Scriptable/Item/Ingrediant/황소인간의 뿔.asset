@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uD669\uC18C\uC778\uAC04\uC758 \uBFD4"
+  Name_En: Minotaur Horn
   Tier: 0
   Strength: 0
   Agility: 0
@@ -35,8 +36,10 @@ MonoBehaviour:
   BuyPrice: 0
   SellPrice: 0
   ItemDescA: "\uD669\uC18C\uC778\uAC04\uC758 \uBFD4. \uCE58\uBC00\uD558\uACE0 \uB2E8\uB2E8\uD55C
-    \uB369\uC5B4\uB9AC. \uD22C\uC9C0\uC640 \uB3CC\uC9C4\uC758 \uC0C1\uC9D5\uC778
+    \uB369\uC5B4\uB9AC\uB85C \uB3CC\uC9C4\uACFC \uD22C\uC9C0\uB97C \uC0C1\uC9D5\uD558\uB294
     \uD76C\uADC0 \uC7AC\uB8CC\uB2E4."
+  ItemDesc_En: "A minotaur\u2019s horn. Dense and solid. a rare symbol of charge
+    and battle spirit."
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

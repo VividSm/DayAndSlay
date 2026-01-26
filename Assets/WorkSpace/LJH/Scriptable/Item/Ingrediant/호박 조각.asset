@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uD638\uBC15 \uC870\uAC01"
+  Name_En: Pumpkin Fragment
   Tier: 0
   Strength: 0
   Agility: 0
@@ -35,8 +36,10 @@ MonoBehaviour:
   BuyPrice: 0
   SellPrice: 0
   ItemDescA: "\uD638\uBC15\uC778\uAC04\uC758 \uBAB8\uC5D0\uC11C \uB5A8\uC5B4\uC838
-    \uB098\uC628 \uC870\uAC01\uC774\uB2E4. \uD638\uBC15\uCE58\uACE4 \uB9E4\uC6B0
+    \uB098\uC628 \uD30C\uD3B8. \uD638\uBC15\uCE58\uACE0\uB294 \uADF9\uB3C4\uB85C
     \uB2E8\uB2E8\uD558\uB2E4."
+  ItemDesc_En: "A fragment fallen from a pumpkin creature\u2019s body. Extremely
+    hard for a pumpkin."
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

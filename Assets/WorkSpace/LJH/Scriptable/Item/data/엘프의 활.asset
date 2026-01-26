@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uC5D8\uD504\uC758 \uD65C"
+  Name_En: Elven Bow
   Tier: 2
   Strength: 0
   Agility: 7
@@ -35,6 +36,7 @@ MonoBehaviour:
   BuyPrice: 0
   SellPrice: 200
   ItemDescA: "\uC5D8\uD504\uAC00 \uB9CC\uB4E0 \uC7A5\uAD81"
+  ItemDesc_En: A longbow crafted by elves.
   ingredients_1: 140112
   ingredients_1_Count: 1
   ingredients_2: 140007

@@ -21,6 +21,7 @@ public class ItemData : ScriptableObject
     public ItemSet ItemSet;
     
     public string Name;
+    public string Name_En;
     public int Tier;
 
     public int Strength;
@@ -39,6 +40,7 @@ public class ItemData : ScriptableObject
     public int SellPrice;
 
     public string ItemDescA;
+    public string ItemDesc_En;
     
     public int ingredients_1;
     public int ingredients_1_Count;

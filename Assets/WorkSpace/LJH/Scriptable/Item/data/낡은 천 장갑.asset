@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 1
   ItemSet: 0
   Name: "\uB0A1\uC740 \uCC9C \uC7A5\uAC11"
+  Name_En: Worn Cloth Gloves
   Tier: 1
   Strength: 0
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 100
   ItemDescA: "\uB9C8\uB825\uC774 \uC57D\uD558\uAC8C \uAE43\uB4E0 \uCC9C \uC7A5\uAC11.
     \uAE30\uBCF8\uC801\uC778 \uB9C8\uBC95 \uBCF4\uD638\uAD6C\uB2E4."
+  ItemDesc_En: Cloth gloves faintly imbued with magic. Basic magical protection.
   ingredients_1: 140106
   ingredients_1_Count: 1
   ingredients_2: 140019

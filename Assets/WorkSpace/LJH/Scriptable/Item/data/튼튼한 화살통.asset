@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uD2BC\uD2BC\uD55C \uD654\uC0B4\uD1B5"
+  Name_En: Sturdy Quiver
   Tier: 2
   Strength: 0
   Agility: 5
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 200
   ItemDescA: "\uC9C8\uAE34 \uAC00\uC8FD\uACFC \uB2E8\uB2E8\uD55C \uAD6C\uC870. \uC804\uC7A5\uC5D0\uC11C
     \uC2E0\uB8B0\uD560 \uC218 \uC788\uB2E4."
+  ItemDesc_En: Tough leather and solid construction. Reliable on the battlefield.
   ingredients_1: 140109
   ingredients_1_Count: 1
   ingredients_2: 140001

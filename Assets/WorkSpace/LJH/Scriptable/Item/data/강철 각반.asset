@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 3
   ItemSet: 0
   Name: "\uAC15\uCCA0 \uAC01\uBC18"
+  Name_En: Steel Legguards
   Tier: 2
   Strength: 0
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 200
   ItemDescA: "\uCDA9\uACA9 \uD761\uC218\uB97C \uC704\uD55C \uAD6C\uC870\uAC00 \uC801\uC6A9\uB41C
     \uAC01\uBC18. \uC804\uC0AC\uB4E4\uC5D0\uAC8C \uD544\uC218\uB2E4."
+  ItemDesc_En: Legguards designed to absorb shock. Essential for warriors.
   ingredients_1: 140103
   ingredients_1_Count: 1
   ingredients_2: 140002

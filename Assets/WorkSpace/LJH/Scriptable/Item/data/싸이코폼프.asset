@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uC2F8\uC774\uCF54\uD3FC\uD504"
+  Name_En: Psychopomp
   Tier: 4
   Strength: 0
   Agility: 21
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 400
   ItemDescA: "\uC8FD\uC74C\uC744 \uC778\uB3C4\uD558\uB294 \uC790\uC758 \uC774\uB984\uC744
     \uC9C0\uB2CC \uD65C"
+  ItemDesc_En: A bow bearing the name of the guide of the dead.
   ingredients_1: 140118
   ingredients_1_Count: 1
   ingredients_2: 140121

@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uC7AC\uC0DD\uC758 \uC2EC\uC7A5\uD575"
+  Name_En: Regenerative Heart Core
   Tier: 0
   Strength: 0
   Agility: 0
@@ -34,8 +35,10 @@ MonoBehaviour:
   Range: 0
   BuyPrice: 0
   SellPrice: 0
-  ItemDescA: "\uC7AC\uC0DD\uB825\uC774 \uC9D1\uC911\uB41C \uC2EC\uC7A5\uD575. \uC0DD\uBA85\uB825\uC744
-    \uB2E4\uB8E8\uB294 \uD76C\uADC0 \uC7AC\uB8CC\uB2E4."
+  ItemDescA: "\uC7AC\uC0DD\uB825\uC774 \uC9D1\uC911\uB41C \uC2EC\uC7A5\uD575. \uC0DD\uBA85\uB825\uACFC
+    \uAD00\uB828\uB41C \uD76C\uADC0 \uC7AC\uB8CC\uB2E4."
+  ItemDesc_En: A heart core concentrated with regenerative power. A rare material
+    tied to vitality.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

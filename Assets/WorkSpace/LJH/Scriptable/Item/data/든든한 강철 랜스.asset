@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uB4E0\uB4E0\uD55C \uAC15\uCCA0 \uB79C\uC2A4"
+  Name_En: Sturdy Steel Lance
   Tier: 2
   Strength: 8
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 200
   ItemDescA: "\uAC15\uCCA0\uB85C \uB9CC\uB4E0 \uC804\uD22C\uC6A9 \uB79C\uC2A4. \uC801\uC758
     \uAC11\uC637\uB3C4 \uB6AB\uB294\uB2E4."
+  ItemDesc_En: A steel lance made for battle. Capable of piercing armor.
   ingredients_1: 140112
   ingredients_1_Count: 1
   ingredients_2: 140007

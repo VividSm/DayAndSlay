@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 2
   ItemSet: 2
   Name: "\uC740\uC6D4\uC758 \uAC00\uC8FD\uD749\uAC11"
+  Name_En: Silver Moon Leather Chestpiece
   Tier: 4
   Strength: 0
   Agility: 10
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 400
   ItemDescA: "\uB2EC\uBE5B\uC744 \uBA38\uAE08\uC740 \uAC00\uC8FD \uD749\uAC11. \uC870\uC6A9\uD55C
     \uC0AC\uB0E5\uC5D0 \uC801\uD569\uD558\uB2E4."
+  ItemDesc_En: A leather chestpiece bathed in moonlight. Ideal for silent hunts.
   ingredients_1: 140115
   ingredients_1_Count: 1
   ingredients_2: 140103

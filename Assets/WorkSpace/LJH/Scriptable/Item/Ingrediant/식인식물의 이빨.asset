@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uC2DD\uC778\uC2DD\uBB3C\uC758 \uC774\uBE68"
+  Name_En: Man-Eater Plant Fang
   Tier: 0
   Strength: 0
   Agility: 0
@@ -35,7 +36,10 @@ MonoBehaviour:
   BuyPrice: 0
   SellPrice: 0
   ItemDescA: "\uC2DD\uC778 \uC2DD\uBB3C\uC758 \uAF43\uC5D0 \uB2EC\uB9B0 \uC774\uBE68.
-    \uC7A5\uBE44\uB97C \uB9CC\uB4E4 \uC218 \uC788\uB294 \uD76C\uADC0\uC7AC\uB8CC\uB2E4."
+    \uC7A5\uBE44 \uC81C\uC791\uC5D0 \uC0AC\uC6A9 \uAC00\uB2A5\uD55C \uD76C\uADC0
+    \uC7AC\uB8CC\uB2E4."
+  ItemDesc_En: Teeth growing from the flower of a man-eating plant. A rare material
+    usable for equipment crafting.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

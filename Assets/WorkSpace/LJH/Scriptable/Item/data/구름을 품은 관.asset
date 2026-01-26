@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 1
   ItemSet: 0
   Name: "\uAD6C\uB984\uC744 \uD488\uC740 \uAD00"
+  Name_En: Crown of the Clouds
   Tier: 3
   Strength: 0
   Agility: 0
@@ -37,6 +38,8 @@ MonoBehaviour:
   ItemDescA: "\uD558\uB298\uC744 \uB2EE\uC740 \uC2E0\uBE44\uB85C\uC6B4 \uAD00. \uD750\uB974\uB294
     \uAD6C\uB984\uCC98\uB7FC \uC790\uC720\uB85C\uC6B4 \uB9C8\uB825\uC744 \uD488\uACE0
     \uC788\uB2E4."
+  ItemDesc_En: A mystical crown resembling the sky. Holds magic as free as drifting
+    clouds.
   ingredients_1: 140103
   ingredients_1_Count: 1
   ingredients_2: 140106

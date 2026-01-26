@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 3
   ItemSet: 6
   Name: "\uC6A9\uAE30\uC0AC\uC758 \uAC01\uAC11"
+  Name_En: Dragon Knight Greaves
   Tier: 5
   Strength: 5
   Agility: 0
@@ -36,6 +37,8 @@ MonoBehaviour:
   SellPrice: 500
   ItemDescA: "\uC6A9\uC758 \uC228\uACB0\uC744 \uACAC\uB514\uB294 \uB2E4\uB9AC\uAC11.
     \uACE0\uB300 \uAE30\uC220\uC758 \uC0B0\uBB3C\uC774\uB2E4."
+  ItemDesc_En: "Greaves that withstand a dragon\u2019s breath. A product of ancient
+    techniques."
   ingredients_1: 140132
   ingredients_1_Count: 1
   ingredients_2: 140128

@@ -42,9 +42,9 @@ public class ItemParser
 
             Debug.Log($"[라인 {i}] 필드 수: {values.Length} / 내용: {line}");
 
-            if (values.Length < 27)
+            if (values.Length < 30)
             {
-                Debug.LogWarning($"라인 {i} 필드 부족: {values.Length}개 (필요: 27개)");
+                Debug.LogWarning($"라인 {i} 필드 부족: {values.Length}개 (필요: 30개)");
                 continue;
             }
 
@@ -87,22 +87,24 @@ public class ItemParser
                 parsingFieldIndex = 8; item.Tier = int.Parse(values[8]);
 
                 item.Name = values[9];
+                item.Name_En =  values[10];
 
-                parsingFieldIndex = 10; item.Strength = int.Parse(values[10]);
-                parsingFieldIndex = 11; item.Agility = int.Parse(values[11]);
-                parsingFieldIndex = 12; item.Intelligence = int.Parse(values[12]);
+                parsingFieldIndex = 10; item.Strength = int.Parse(values[11]);
+                parsingFieldIndex = 11; item.Agility = int.Parse(values[12]);
+                parsingFieldIndex = 12; item.Intelligence = int.Parse(values[13]);
 
-                parsingFieldIndex = 13; item.Critical = float.Parse(values[13], CultureInfo.InvariantCulture);
+                parsingFieldIndex = 13; item.Critical = float.Parse(values[14], CultureInfo.InvariantCulture);
 
-                parsingFieldIndex = 14; item.Hp = int.Parse(values[14]);
-                parsingFieldIndex = 15; item.Attack = int.Parse(values[15]);
-                parsingFieldIndex = 16; item.Defence = int.Parse(values[16]);
+                parsingFieldIndex = 14; item.Hp = int.Parse(values[15]);
+                parsingFieldIndex = 15; item.Attack = int.Parse(values[16]);
+                parsingFieldIndex = 16; item.Defence = int.Parse(values[17]);
 
-                parsingFieldIndex = 17; item.Range = float.Parse(values[17], CultureInfo.InvariantCulture);
+                parsingFieldIndex = 17; item.Range = float.Parse(values[18], CultureInfo.InvariantCulture);
 
-                parsingFieldIndex = 18; item.SellPrice = int.Parse(values[18]);
+                parsingFieldIndex = 18; item.SellPrice = int.Parse(values[19]);
 
-                item.ItemDescA = values[19];
+                item.ItemDescA = values[20];
+                item.ItemDesc_En = values[21];
 
                 // 재료 초기화
                 item.Ingredients.Clear();
@@ -111,17 +113,17 @@ public class ItemParser
                 {
                     int temp;
 
-                    parsingFieldIndex = 20; item.ingredients_1 = int.TryParse(values[20], out temp) ? temp : 0;
-                    parsingFieldIndex = 21; item.ingredients_1_Count = int.TryParse(values[21], out temp) ? temp : 0;
+                    parsingFieldIndex = 22; item.ingredients_1 = int.TryParse(values[22], out temp) ? temp : 0;
+                    parsingFieldIndex = 23; item.ingredients_1_Count = int.TryParse(values[23], out temp) ? temp : 0;
 
-                    parsingFieldIndex = 22; item.ingredients_2 = int.TryParse(values[22], out temp) ? temp : 0;
-                    parsingFieldIndex = 23; item.ingredients_2_Count = int.TryParse(values[23], out temp) ? temp : 0;
+                    parsingFieldIndex = 24; item.ingredients_2 = int.TryParse(values[24], out temp) ? temp : 0;
+                    parsingFieldIndex = 25; item.ingredients_2_Count = int.TryParse(values[25], out temp) ? temp : 0;
 
-                    parsingFieldIndex = 24; item.ingredients_3 = int.TryParse(values[24], out temp) ? temp : 0;
-                    parsingFieldIndex = 25; item.ingredients_3_Count = int.TryParse(values[25], out temp) ? temp : 0;
+                    parsingFieldIndex = 26; item.ingredients_3 = int.TryParse(values[26], out temp) ? temp : 0;
+                    parsingFieldIndex = 27; item.ingredients_3_Count = int.TryParse(values[27], out temp) ? temp : 0;
 
-                    parsingFieldIndex = 26; item.ingredients_4 = int.TryParse(values[26], out temp) ? temp : 0;
-                    parsingFieldIndex = 27; item.ingredients_4_Count = int.TryParse(values[27], out temp) ? temp : 0;
+                    parsingFieldIndex = 28; item.ingredients_4 = int.TryParse(values[28], out temp) ? temp : 0;
+                    parsingFieldIndex = 29; item.ingredients_4_Count = int.TryParse(values[29], out temp) ? temp : 0;
 
                     item.Ingredients.Add(item.ingredients_1);
                     item.Ingredients.Add(item.ingredients_2);

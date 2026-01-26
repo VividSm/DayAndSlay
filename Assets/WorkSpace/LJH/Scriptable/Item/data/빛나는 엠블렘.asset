@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uBE5B\uB098\uB294 \uC5E0\uBE14\uB818"
+  Name_En: Shining Emblem
   Tier: 2
   Strength: 5
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 200
   ItemDescA: "\uC804\uB958\uAC00 \uD750\uB974\uB294 \uBB38\uC7A5. \uC0AC\uAE30 \uC99D\uC9C4\uC5D0
     \uD6A8\uACFC\uC801\uC774\uB2E4."
+  ItemDesc_En: An emblem charged with electricity. Effective at boosting morale.
   ingredients_1: 140109
   ingredients_1_Count: 1
   ingredients_2: 140001

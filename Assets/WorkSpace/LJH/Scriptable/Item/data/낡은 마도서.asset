@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uB0A1\uC740 \uB9C8\uB3C4\uC11C"
+  Name_En: Worn Grimoire
   Tier: 1
   Strength: 0
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 100
   ItemDescA: "\uB2F3\uACE0 \uD574\uC9C4 \uD45C\uC9C0. \uC548\uC758 \uC8FC\uBB38\uB3C4
     \uD76C\uBBF8\uD558\uAC8C \uB0A8\uC544\uC788\uB2E4."
+  ItemDesc_En: A worn and tattered cover. The spells inside barely remain.
   ingredients_1: 140124
   ingredients_1_Count: 1
   ingredients_2: 140004

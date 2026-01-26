@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uD669\uC18C\uC778\uAC04\uC758 \uAC00\uC8FD"
+  Name_En: Minotaur Hide
   Tier: 0
   Strength: 0
   Agility: 0
@@ -35,8 +36,9 @@ MonoBehaviour:
   BuyPrice: 0
   SellPrice: 0
   ItemDescA: "\uD669\uC18C\uC778\uAC04\uC758 \uAC00\uC8FD. \uB450\uAECD\uACE0 \uC9C8\uAE34
-    \uAC00\uC8FD\uC774\uB2E4. \uCDA9\uACA9\uC5D0 \uAC15\uD55C \uBC29\uC5B4\uAD6C
-    \uC7AC\uB8CC\uB85C \uC4F0\uC778\uB2E4."
+    \uAC00\uC8FD\uC73C\uB85C \uCDA9\uACA9\uC5D0 \uAC15\uD55C \uBC29\uC5B4\uAD6C \uC81C\uC791\uC5D0
+    \uC4F0\uC778\uB2E4."
+  ItemDesc_En: Minotaur hide. Thick and tough leather used for impact-resistant armor.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

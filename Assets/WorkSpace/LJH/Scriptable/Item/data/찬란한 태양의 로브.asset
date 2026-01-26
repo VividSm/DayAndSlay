@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 1
   ItemSet: 1
   Name: "\uCC2C\uB780\uD55C \uD0DC\uC591\uC758 \uB85C\uBE0C"
+  Name_En: Radiant Sun Robe
   Tier: 4
   Strength: 0
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 400
   ItemDescA: "\uD0DC\uC591\uC758 \uBE5B\uC744 \uB2F4\uC740 \uB85C\uBE0C. \uC874\uC7AC
     \uC790\uCCB4\uB85C \uAD11\uD718\uB97C \uBC1C\uD55C\uB2E4."
+  ItemDesc_En: A robe imbued with sunlight. Radiates brilliance by its mere presence.
   ingredients_1: 140115
   ingredients_1_Count: 1
   ingredients_2: 140103

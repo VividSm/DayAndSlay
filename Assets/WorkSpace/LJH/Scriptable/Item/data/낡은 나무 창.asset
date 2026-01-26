@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uB0A1\uC740 \uB098\uBB34 \uCC3D"
+  Name_En: Worn Wooden Spear
   Tier: 1
   Strength: 5
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 100
   ItemDescA: "\uAE09\uD558\uAC8C \uAE4E\uC544 \uB9CC\uB4E0 \uB098\uBB34\uCC3D. \uAC04\uC2E0\uD788
     \uC4F8 \uB9CC\uD558\uB2E4"
+  ItemDesc_En: A hastily carved wooden spear. Barely usable.
   ingredients_1: 140121
   ingredients_1_Count: 1
   ingredients_2: 140005

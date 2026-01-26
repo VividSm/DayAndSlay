@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uC624\uD06C \uC190\uD1B1"
+  Name_En: Orc Claw
   Tier: 0
   Strength: 0
   Agility: 0
@@ -34,8 +35,9 @@ MonoBehaviour:
   Range: 0
   BuyPrice: 0
   SellPrice: 0
-  ItemDescA: "\uB2E8\uB2E8\uD558\uACE0 \uB0A0\uCE74\uB85C\uC6B4 \uC624\uD06C \uC190\uD1B1.
-    \uACF5\uACA9\uC131\uC744 \uC0C1\uC9D5\uD558\uB294 \uC7AC\uB8CC\uB2E4."
+  ItemDescA: "\uB2E8\uB2E8\uD558\uACE0 \uB0A0\uCE74\uB85C\uC6B4 \uC624\uD06C\uC758
+    \uC190\uD1B1. \uACF5\uACA9\uC131\uC744 \uC0C1\uC9D5\uD558\uB294 \uC7AC\uB8CC\uB2E4."
+  ItemDesc_En: A hard and sharp orc claw. A material symbolizing aggression.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

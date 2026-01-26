@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uC790\uC5F0\uC774 \uAE43\uB4E0 \uD65C"
+  Name_En: Nature-Infused Bow
   Tier: 3
   Strength: 0
   Agility: 14
@@ -35,6 +36,7 @@ MonoBehaviour:
   BuyPrice: 0
   SellPrice: 300
   ItemDescA: "\uC232\uC758 \uC815\uB839\uC774 \uAE43\uB4E0 \uD65C"
+  ItemDesc_En: A bow inhabited by forest spirits.
   ingredients_1: 140112
   ingredients_1_Count: 1
   ingredients_2: 140121

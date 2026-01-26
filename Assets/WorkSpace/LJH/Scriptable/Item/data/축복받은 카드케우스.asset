@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uCD95\uBCF5\uBC1B\uC740 \uCE74\uB4DC\uCF00\uC6B0\uC2A4"
+  Name_En: Blessed Caduceus
   Tier: 4
   Strength: 0
   Agility: 0
@@ -37,6 +38,8 @@ MonoBehaviour:
   ItemDescA: "\uC758\uB85C\uC6B4 \uC790\uC758 \uC758\uC220\uACFC \uC911\uC7AC\uC758
     \uC0C1\uC9D5. \uC545\uC744 \uBB3C\uB9AC\uCE58\uB294 \uC2E0\uC131\uD55C \uD798\uC774
     \uB2F4\uACA8 \uC788\uB2E4."
+  ItemDesc_En: A symbol of righteous healing and mediation. Holds holy power to banish
+    evil.
   ingredients_1: 140118
   ingredients_1_Count: 1
   ingredients_2: 140121

@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uBD80\uC2DD\uB41C \uB0A1\uC740 \uD65C"
+  Name_En: Corroded Worn Bow
   Tier: 1
   Strength: 0
   Agility: 5
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 100
   ItemDescA: "\uC904\uC774 \uB290\uC2A8\uD55C \uBD80\uB7EC\uC9C0\uAE30 \uC9C1\uC804\uC758
     \uB0A1\uC740 \uD65C. \uACA8\uC6B0 \uC3E0 \uC218 \uC788\uB294 \uC218\uC900"
+  ItemDesc_En: A worn bow on the verge of breaking. with a slack string. Barely usable.
   ingredients_1: 140121
   ingredients_1_Count: 1
   ingredients_2: 140005

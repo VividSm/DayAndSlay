@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 1
   ItemSet: 0
   Name: "\uC2E0\uBE44\uD55C \uB85C\uBE0C"
+  Name_En: Mystic Robe
   Tier: 2
   Strength: 0
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 200
   ItemDescA: "\uB9C8\uB825\uC774 \uAE43\uB4E0 \uB85C\uBE0C. \uC8FC\uBB38 \uC2DC\uC804
     \uC2DC \uC5D0\uB108\uC9C0\uB97C \uC99D\uD3ED\uC2DC\uD0A8\uB2E4."
+  ItemDesc_En: A robe imbued with mana. Amplifies spellcasting energy.
   ingredients_1: 140103
   ingredients_1_Count: 1
   ingredients_2: 140002

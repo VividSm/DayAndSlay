@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uC2DD\uC778\uC2DD\uBB3C\uC758 \uC774\uD30C\uB9AC"
+  Name_En: Man-Eater Plant Leaf
   Tier: 0
   Strength: 0
   Agility: 0
@@ -34,8 +35,10 @@ MonoBehaviour:
   Range: 0
   BuyPrice: 0
   SellPrice: 0
-  ItemDescA: "\uC2DD\uC778 \uC2DD\uBB3C\uC758 \uC774\uD30C\uB9AC. \uC2DD\uBB3C\uC758
-    \uC78E \uCE58\uACE0\uB294 \uB2E8\uB2E8\uD558\uACE0 \uC9C8\uAE30\uB2E4."
+  ItemDescA: "\uC2DD\uC778 \uC2DD\uBB3C\uC758 \uC78E\uC0AC\uADC0. \uC78E \uCE58\uACE0\uB294
+    \uB180\uB77C\uC6B8 \uC815\uB3C4\uB85C \uC9C8\uAE30\uACE0 \uB2E8\uB2E8\uD558\uB2E4."
+  ItemDesc_En: A leaf from a man-eating plant. Surprisingly tough and resilient for
+    foliage.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

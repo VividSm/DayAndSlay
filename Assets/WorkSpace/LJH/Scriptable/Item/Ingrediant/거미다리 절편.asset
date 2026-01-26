@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uAC70\uBBF8\uB2E4\uB9AC \uC808\uD3B8"
+  Name_En: Spider Leg Segment
   Tier: 0
   Strength: 0
   Agility: 0
@@ -34,8 +35,9 @@ MonoBehaviour:
   Range: 0
   BuyPrice: 0
   SellPrice: 0
-  ItemDescA: "\uB531\uB531\uD55C \uAC70\uBBF8\uB2E4\uB9AC\uC758 \uC678\uD53C. \uAECD\uC9C8\uCC98\uB7FC
-    \uB2E8\uB2E8\uD55C \uC7AC\uB8CC\uB2E4."
+  ItemDescA: "\uAC70\uBBF8 \uB2E4\uB9AC\uC758 \uB2E8\uB2E8\uD55C \uC678\uACE8\uACA9.
+    \uAC11\uC637 \uD310\uAE08\uCC98\uB7FC \uB2E8\uB2E8\uD55C \uC7AC\uB8CC\uB2E4."
+  ItemDesc_En: The hard outer shell of a spider leg. As tough as armor plating.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

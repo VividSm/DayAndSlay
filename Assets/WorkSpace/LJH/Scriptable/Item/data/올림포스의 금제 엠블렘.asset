@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uC62C\uB9BC\uD3EC\uC2A4\uC758 \uAE08\uC81C \uC5E0\uBE14\uB818"
+  Name_En: Golden Emblem of Olympus
   Tier: 4
   Strength: 20
   Agility: 0
@@ -36,6 +37,8 @@ MonoBehaviour:
   SellPrice: 400
   ItemDescA: "\uC2E0\uB4E4\uC758 \uC655\uC88C\uC5D0\uC11C \uB0B4\uB824\uC628 \uD669\uAE08
     \uBB38\uC7A5. \uC801\uB4E4\uC744 \uB3C4\uB9DD\uCE58\uAC8C \uB9CC\uB4E0\uB2E4."
+  ItemDesc_En: A golden emblem descended from the throne of the gods. Strikes fear
+    into enemies.
   ingredients_1: 140118
   ingredients_1_Count: 1
   ingredients_2: 140109

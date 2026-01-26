@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uB0A1\uC740 \uD65C\uC904"
+  Name_En: Worn Bowstring
   Tier: 0
   Strength: 0
   Agility: 0
@@ -34,8 +35,9 @@ MonoBehaviour:
   Range: 0
   BuyPrice: 0
   SellPrice: 0
-  ItemDescA: "\uB0A1\uACE0 \uB298\uC5B4\uC9C4 \uD65C\uC904. \uACE0\uC815\uB825\uC774
-    \uC57D\uD55C \uC7AC\uD65C\uC6A9 \uBD80\uD488\uC774\uB2E4."
+  ItemDescA: "\uB0A1\uACE0 \uB298\uC5B4\uC9C4 \uD65C\uC904. \uC7A5\uB825\uC774 \uC57D\uD574\uC9C4
+    \uC7AC\uD65C\uC6A9 \uBD80\uD488\uC774\uB2E4."
+  ItemDesc_En: A worn and stretched bowstring. A recycled part with weak tension.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

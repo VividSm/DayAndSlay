@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 3
   ItemSet: 0
   Name: "\uB179\uC2A8 \uD22C\uAD6C"
+  Name_En: Rusty Helm
   Tier: 1
   Strength: 0
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 100
   ItemDescA: "\uB179\uC774 \uC2A8 \uCCA0\uC81C \uD22C\uAD6C. \uC804\uD22C\uC758 \uD754\uC801\uC744
     \uADF8\uB300\uB85C \uAC04\uC9C1\uD558\uACE0 \uC788\uB2E4."
+  ItemDesc_En: A rusted iron helmet. Bears the scars of battle.
   ingredients_1: 140106
   ingredients_1_Count: 1
   ingredients_2: 140019

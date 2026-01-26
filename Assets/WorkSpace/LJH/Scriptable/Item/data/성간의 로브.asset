@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 1
   ItemSet: 4
   Name: "\uC131\uAC04\uC758 \uB85C\uBE0C"
+  Name_En: Interstellar Robe
   Tier: 5
   Strength: 0
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 500
   ItemDescA: "\uC6B0\uC8FC \uC5D0\uB108\uC9C0\uB97C \uB2F4\uC740 \uB85C\uBE0C. \uB9C8\uBC95\uC0AC\uC758
     \uAD81\uADF9 \uBCF5\uC7A5\uC774\uB2E4."
+  ItemDesc_En: A robe infused with cosmic energy. The ultimate attire for mages.
   ingredients_1: 140132
   ingredients_1_Count: 1
   ingredients_2: 140128

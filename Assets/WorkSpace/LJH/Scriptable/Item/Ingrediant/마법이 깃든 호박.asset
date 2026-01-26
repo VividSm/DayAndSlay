@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uB9C8\uBC95\uC774 \uAE43\uB4E0 \uD638\uBC15"
+  Name_En: Enchanted Pumpkin
   Tier: 0
   Strength: 0
   Agility: 0
@@ -34,8 +35,10 @@ MonoBehaviour:
   Range: 0
   BuyPrice: 0
   SellPrice: 0
-  ItemDescA: "\uD638\uBC15\uC778\uAC04\uC774 \uBD80\uB9AC\uB358 \uD638\uBC15\uC774\uB2E4.
-    \uC0DD\uBA85\uC744 \uAC00\uC9C0\uACE0 \uC788\uB294\uAC83\uC73C\uB85C \uBCF4\uC778\uB2E4."
+  ItemDescA: "\uD55C\uB54C \uD638\uBC15\uC778\uAC04\uC5D0\uAC8C \uC870\uC885\uB2F9\uD558\uB358
+    \uD638\uBC15. \uC0DD\uBA85\uC744 \uC9C0\uB2CC \uB4EF \uBCF4\uC778\uB2E4."
+  ItemDesc_En: A pumpkin once controlled by a pumpkin creature. It appears to possess
+    life.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

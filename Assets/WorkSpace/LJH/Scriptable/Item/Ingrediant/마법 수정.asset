@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uB9C8\uBC95 \uC218\uC815"
+  Name_En: Magic Crystal
   Tier: 0
   Strength: 0
   Agility: 0
@@ -34,9 +35,11 @@ MonoBehaviour:
   Range: 0
   BuyPrice: 0
   SellPrice: 0
-  ItemDescA: "\uD638\uBC15\uC778\uAC04\uC758 \uC9C0\uD321\uC774\uC5D0\uC11C \uB5A8\uC5B4\uC838\uB098\uC628
-    \uC218\uC815\uC774\uB2E4. \uB9E4\uC6B0 \uC2E0\uBE44\uD55C \uAE30\uC6B4\uC774
-    \uAC10\uC2F8\uACE0 \uC788\uB2E4."
+  ItemDescA: "\uD638\uBC15\uC778\uAC04\uC758 \uC9C0\uD321\uC774\uC5D0\uC11C \uB5A8\uC5B4\uC838
+    \uB098\uC628 \uC218\uC815. \uAC15\uB82C\uD55C \uB9C8\uB825\uC774 \uAC10\uC2F8\uACE0
+    \uC788\uB2E4."
+  ItemDesc_En: "A crystal that fell from a pumpkin creature\u2019s staff. Wrapped
+    in an intensely mystical energy."
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

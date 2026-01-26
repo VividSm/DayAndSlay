@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uB179\uC2A8 \uC2F8\uAD6C\uB824 \uAC80"
+  Name_En: Rusty Cheap Sword
   Tier: 1
   Strength: 5
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 100
   ItemDescA: "\uC624\uB79C \uC138\uC6D4 \uB179\uC2A8 \uAC80. \uD718\uB450\uB974\uB294\uAC74
     \uAC00\uB2A5\uD558\uB2E4"
+  ItemDesc_En: A sword rusted over many years. It can still be swung.
   ingredients_1: 140121
   ingredients_1_Count: 1
   ingredients_2: 140005

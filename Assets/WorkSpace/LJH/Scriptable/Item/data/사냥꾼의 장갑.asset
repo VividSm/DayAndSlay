@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 2
   ItemSet: 0
   Name: "\uC0AC\uB0E5\uAFBC\uC758 \uC7A5\uAC11"
+  Name_En: "Hunter\u2019s Gloves"
   Tier: 2
   Strength: 0
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 200
   ItemDescA: "\uC190\uBAA9\uC744 \uC548\uC815\uC801\uC73C\uB85C \uAC10\uC2F8\uB294
     \uC7A5\uAC11. \uB0A0\uB835\uD568\uC744 \uB192\uC5EC\uC900\uB2E4."
+  ItemDesc_En: Gloves that firmly support the wrists. Enhance agility.
   ingredients_1: 140103
   ingredients_1_Count: 1
   ingredients_2: 140002

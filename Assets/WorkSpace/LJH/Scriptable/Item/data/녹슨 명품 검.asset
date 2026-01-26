@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uB179\uC2A8 \uBA85\uD488 \uAC80"
+  Name_En: Rusty Masterwork Sword
   Tier: 1
   Strength: 6
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 100
   ItemDescA: "\uC624\uB79C \uC138\uC6D4 \uB179\uC2A8 \uAC80. \uD488\uC9C8 \uB9CC\uD07C\uC740
     \uC5EC\uC804\uD558\uB2E4"
+  ItemDesc_En: A sword rusted over many years. Its quality still remains.
   ingredients_1: 140121
   ingredients_1_Count: 1
   ingredients_2: 140005

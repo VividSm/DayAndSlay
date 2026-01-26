@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uAC15\uCCA0 \uB79C\uC2A4"
+  Name_En: Steel Lance
   Tier: 2
   Strength: 7
   Agility: 0
@@ -35,6 +36,7 @@ MonoBehaviour:
   BuyPrice: 0
   SellPrice: 200
   ItemDescA: "\uAC15\uCCA0\uB85C \uB9CC\uB4E0 \uC804\uD22C\uC6A9 \uB79C\uC2A4"
+  ItemDesc_En: A steel lance made for battle.
   ingredients_1: 140112
   ingredients_1_Count: 1
   ingredients_2: 140007

@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 3
   ItemSet: 0
   Name: "\uAC15\uCCA0 \uD22C\uAD6C"
+  Name_En: Steel Helm
   Tier: 2
   Strength: 0
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 200
   ItemDescA: "\uAD11\uD0DD\uC774 \uB3C4\uB294 \uAC15\uCCA0 \uD22C\uAD6C. \uAE30\uC0AC\uB2E8\uC758
     \uAE30\uBCF8 \uC7A5\uBE44\uB2E4."
+  ItemDesc_En: A polished steel helmet. Standard issue for knightly orders.
   ingredients_1: 140103
   ingredients_1_Count: 1
   ingredients_2: 140002

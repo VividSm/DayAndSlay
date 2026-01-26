@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uBC34\uC2DC\uC758 \uC815\uC218"
+  Name_En: Banshee Essence
   Tier: 0
   Strength: 0
   Agility: 0
@@ -34,8 +35,10 @@ MonoBehaviour:
   Range: 0
   BuyPrice: 0
   SellPrice: 0
-  ItemDescA: "\uBC34\uC2DC\uC758 \uC815\uC218\uAC00 \uB2F4\uAE34 \uBB3C\uCCB4\uB2E4.
-    \uAC00\uC9C0\uACE0 \uC788\uB294 \uC790\uC5D0\uAC8C \uC18D\uC0AD\uC784\uC774 \uB4E4\uB9B0\uB2E4."
+  ItemDescA: "\uBC34\uC2DC\uC758 \uC815\uC218\uAC00 \uB2F4\uAE34 \uBB3C\uCCB4. \uC18C\uC720\uC790\uC5D0\uAC8C
+    \uC18D\uC0AD\uC784\uC774 \uB4E4\uB824\uC628\uB2E4."
+  ItemDesc_En: An object containing the essence of a banshee. Whispers can be heard
+    by its bearer.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

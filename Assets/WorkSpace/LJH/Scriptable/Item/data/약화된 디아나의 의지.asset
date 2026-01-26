@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uC57D\uD654\uB41C \uB514\uC544\uB098\uC758 \uC758\uC9C0"
+  Name_En: Weakened Will of Diana
   Tier: 4
   Strength: 18
   Agility: 0
@@ -36,6 +37,8 @@ MonoBehaviour:
   SellPrice: 400
   ItemDescA: "\uC0AC\uB0E5\uC758 \uC5EC\uC2E0 \uB514\uC544\uB098\uC758 \uCD95\uBCF5\uC774
     \uB2F4\uAE34 \uC720\uBB3C \uAC80. \uCD95\uBCF5\uC774 \uC57D\uD654\uB418\uC5C8\uB2E4"
+  ItemDesc_En: A relic blade blessed by Diana. goddess of the hunt. Its blessing
+    has weakened.
   ingredients_1: 140118
   ingredients_1_Count: 1
   ingredients_2: 140121

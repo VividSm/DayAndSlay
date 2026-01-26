@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uC2E0\uBE44\uD55C \uC790\uC5F0\uC774 \uAE43\uB4E0 \uD65C"
+  Name_En: Mystic Nature-Infused Bow
   Tier: 3
   Strength: 0
   Agility: 15
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 300
   ItemDescA: "\uC232\uC758 \uC815\uB839\uC774 \uAE43\uB4E0 \uD65C. \uC815\uB839\uC758
     \uC18D\uC0AD\uC784\uC774 \uB4E4\uB9B0\uB2E4"
+  ItemDesc_En: A bow inhabited by forest spirits. Their whispers can be heard.
   ingredients_1: 140112
   ingredients_1_Count: 1
   ingredients_2: 140121

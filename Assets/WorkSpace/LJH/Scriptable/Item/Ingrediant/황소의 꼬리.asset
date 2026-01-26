@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uD669\uC18C\uC758 \uAF2C\uB9AC"
+  Name_En: Bull Tail
   Tier: 0
   Strength: 0
   Agility: 0
@@ -35,8 +36,10 @@ MonoBehaviour:
   BuyPrice: 0
   SellPrice: 0
   ItemDescA: "\uD669\uC18C\uC758 \uAF2C\uB9AC. \uD0C4\uB825 \uC788\uB294 \uD798\uC904\uC774
-    \uC0B4\uC544 \uC788\uB2E4. \uADE0\uD615\uACFC \uADFC\uC131\uC744 \uC0C1\uC9D5\uD558\uB294
+    \uC0B4\uC544 \uC788\uB2E4. \uADE0\uD615\uACFC \uC778\uB0B4\uB97C \uC0C1\uC9D5\uD558\uB294
     \uC7AC\uB8CC\uB2E4."
+  ItemDesc_En: "A bull\u2019s tail. Its elastic sinews remain intact. symbolizing
+    balance and perseverance."
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

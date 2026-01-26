@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uCD95\uBCF5\uBC1B\uC740 \uC2F8\uC774\uCF54\uD3FC\uD504"
+  Name_En: Blessed Psychopomp
   Tier: 4
   Strength: 0
   Agility: 23
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 400
   ItemDescA: "\uC8FD\uC74C\uC744 \uC778\uB3C4\uD558\uB294 \uC790\uC758 \uC774\uB984\uC744
     \uC9C0\uB2CC \uD65C. \uC601\uD63C\uC744 \uAFF0\uB6AB\uB294 \uD798\uC774 \uC788\uB2E4."
+  ItemDesc_En: A bow bearing the name of the guide of the dead. It pierces souls.
   ingredients_1: 140118
   ingredients_1_Count: 1
   ingredients_2: 140121

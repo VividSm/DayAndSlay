@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uB048\uC801\uD55C \uAC70\uBBF8\uC904 \uB369\uC5B4\uB9AC"
+  Name_En: Sticky Web Mass
   Tier: 0
   Strength: 0
   Agility: 0
@@ -34,8 +35,9 @@ MonoBehaviour:
   Range: 0
   BuyPrice: 0
   SellPrice: 0
-  ItemDescA: "\uB048\uC801\uD558\uAC8C \uBB49\uCCD0\uC9C4 \uAC70\uBBF8\uC904. \uC810\uCC29\uC131
-    \uD6A8\uACFC\uAC00 \uC788\uB2E4."
+  ItemDescA: "\uB048\uC801\uD558\uAC8C \uBB49\uCCD0\uC9C4 \uAC70\uBBF8\uC904 \uB369\uC5B4\uB9AC.
+    \uAC15\uD55C \uC810\uCC29\uC131\uC744 \uC9C0\uB2C8\uACE0 \uC788\uB2E4."
+  ItemDesc_En: A mass of sticky spider webbing. Possesses strong adhesive properties.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

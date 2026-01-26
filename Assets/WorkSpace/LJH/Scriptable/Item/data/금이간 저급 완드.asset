@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uAE08\uC774\uAC04 \uC800\uAE09 \uC644\uB4DC"
+  Name_En: Cracked Crude Wand
   Tier: 1
   Strength: 0
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 100
   ItemDescA: "\uAE08\uC774 \uAC04 \uC624\uB798\uB41C \uC644\uB4DC. \uB9C8\uBC95\uC758
     \uAE30\uC6B4\uC774 \uD76C\uBBF8\uD558\uB2E4"
+  ItemDesc_En: An old cracked wand. Its magical energy has faded.
   ingredients_1: 140121
   ingredients_1_Count: 1
   ingredients_2: 140005

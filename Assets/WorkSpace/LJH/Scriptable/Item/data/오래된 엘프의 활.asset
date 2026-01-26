@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uC624\uB798\uB41C \uC5D8\uD504\uC758 \uD65C"
+  Name_En: Ancient Elven Bow
   Tier: 2
   Strength: 0
   Agility: 6
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 200
   ItemDescA: "\uC5D8\uD504\uAC00 \uB9CC\uB4E0 \uC7A5\uAD81.\uC624\uB798\uB418\uC5B4
     \uC7A5\uB825\uC774 \uC57D\uD574\uC84C\uB2E4"
+  ItemDesc_En: A longbow crafted by elves. Its tension has weakened with age.
   ingredients_1: 140112
   ingredients_1_Count: 1
   ingredients_2: 140007

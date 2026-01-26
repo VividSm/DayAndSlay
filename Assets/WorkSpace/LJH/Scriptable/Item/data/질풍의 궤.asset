@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uC9C8\uD48D\uC758 \uADA4"
+  Name_En: Trajectory of the Gale
   Tier: 5
   Strength: 0
   Agility: 24
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 500
   ItemDescA: "\uBC14\uB78C\uBCF4\uB2E4 \uBA3C\uC800 \uC6C0\uC9C1\uC778\uB2E4. \uADF8
     \uD754\uC801\uB9CC\uC774 \uC9C4\uC2E4\uC744 \uC99D\uBA85\uD55C\uB2E4."
+  ItemDesc_En: Moves faster than the wind. Only its trail proves the truth.
   ingredients_1: 140131
   ingredients_1_Count: 1
   ingredients_2: 140127

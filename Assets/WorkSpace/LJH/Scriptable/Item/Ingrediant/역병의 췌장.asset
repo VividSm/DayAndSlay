@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uC5ED\uBCD1\uC758 \uCDCC\uC7A5"
+  Name_En: Plague Pancreas
   Tier: 0
   Strength: 0
   Agility: 0
@@ -34,8 +35,9 @@ MonoBehaviour:
   Range: 0
   BuyPrice: 0
   SellPrice: 0
-  ItemDescA: "\uBCD1\uB4E0 \uAE30\uC6B4\uC744 \uD488\uC740 \uC7A5\uAE30. \uAC15\uD55C
-    \uB3C5\uC131\uC744 \uAC00\uC9C4 \uD76C\uADC0 \uC7AC\uB8CC\uB2E4."
+  ItemDescA: "\uBCD1\uB4E0 \uAE30\uC6B4\uC774 \uC2A4\uBA70\uB4E0 \uC7A5\uAE30. \uAC15\uD55C
+    \uB3C5\uC131\uC744 \uC9C0\uB2CC \uD76C\uADC0 \uC7AC\uB8CC\uB2E4."
+  ItemDesc_En: An organ infused with diseased energy. A highly toxic rare material.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

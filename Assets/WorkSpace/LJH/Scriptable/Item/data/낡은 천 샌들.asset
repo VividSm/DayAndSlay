@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 1
   ItemSet: 0
   Name: "\uB0A1\uC740 \uCC9C \uC0CC\uB4E4"
+  Name_En: Worn Cloth Sandals
   Tier: 1
   Strength: 0
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 100
   ItemDescA: "\uAC70\uCE60\uAC8C \uAFF0\uB9E8 \uCC9C \uC0CC\uB4E4. \uB9C8\uBC95\uC0AC\uC758
     \uCD08\uAE30 \uCC29\uC6A9\uD654\uB2E4."
+  ItemDesc_En: Roughly stitched cloth sandals. Starter footwear for mages.
   ingredients_1: 140106
   ingredients_1_Count: 1
   ingredients_2: 140019

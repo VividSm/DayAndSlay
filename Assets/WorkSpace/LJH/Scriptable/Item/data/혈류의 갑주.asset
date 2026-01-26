@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 3
   ItemSet: 0
   Name: "\uD608\uB958\uC758 \uAC11\uC8FC"
+  Name_En: Bloodflow Armor
   Tier: 3
   Strength: 5
   Agility: 0
@@ -37,6 +38,8 @@ MonoBehaviour:
   ItemDescA: "\uD53C\uC758 \uD750\uB984\uC744 \uD615\uC0C1\uD654\uD55C \uAC11\uC8FC.
     \uC804\uC7A5\uC758 \uC911\uC2EC\uC5D0 \uC120 \uC804\uC0AC\uB97C \uC704\uD55C
     \uC7A5\uBE44\uB2E4."
+  ItemDesc_En: Armor shaped after flowing blood. Made for warriors at the heart of
+    battle.
   ingredients_1: 140103
   ingredients_1_Count: 1
   ingredients_2: 140106

@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uAE08\uC774\uAC04 \uC644\uB4DC"
+  Name_En: Cracked Wand
   Tier: 1
   Strength: 0
   Agility: 0
@@ -35,6 +36,7 @@ MonoBehaviour:
   BuyPrice: 0
   SellPrice: 100
   ItemDescA: "\uAE08\uC774 \uAC04 \uC624\uB798\uB41C \uC644\uB4DC"
+  ItemDesc_En: An old cracked wand.
   ingredients_1: 140121
   ingredients_1_Count: 1
   ingredients_2: 140005

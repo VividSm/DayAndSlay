@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uCC9C\uBC8C\uC758 \uBB38\uC7A5"
+  Name_En: Sigil of Divine Retribution
   Tier: 5
   Strength: 46
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 500
   ItemDescA: "\uD558\uB298\uC758 \uBD84\uB178\uAC00 \uAE43\uB4E0 \uC778\uC7A5. \uC190\uC5D0
     \uC954 \uC790\uC5D0\uAC8C \uBCBC\uB77D\uC774 \uB530\uB97C \uAC83\uC774\uB2E4."
+  ItemDesc_En: A sigil bearing the fury of the heavens. Lightning follows its bearer.
   ingredients_1: 140131
   ingredients_1_Count: 1
   ingredients_2: 140127

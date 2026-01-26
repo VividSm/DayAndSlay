@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 1
   ItemSet: 0
   Name: "\uB0A1\uC740 \uCC9C \uB450\uAC74"
+  Name_En: Worn Cloth Hood
   Tier: 1
   Strength: 0
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 100
   ItemDescA: "\uB0A1\uACE0 \uD574\uC9C4 \uCC9C \uB450\uAC74. \uCD08\uBCF4 \uB9C8\uBC95\uC0AC\uC758
     \uD754\uC801\uC774 \uB0A8\uC544 \uC788\uB2E4."
+  ItemDesc_En: A worn cloth hood. Traces of a novice mage remain.
   ingredients_1: 140106
   ingredients_1_Count: 1
   ingredients_2: 140019

@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uB0A1\uC740 \uD65C"
+  Name_En: Worn Bow
   Tier: 1
   Strength: 0
   Agility: 5
@@ -35,6 +36,7 @@ MonoBehaviour:
   BuyPrice: 0
   SellPrice: 100
   ItemDescA: "\uC904\uC774 \uB290\uC2A8\uD55C \uB0A1\uC740 \uD65C"
+  ItemDesc_En: A worn bow with a loose string.
   ingredients_1: 140121
   ingredients_1_Count: 1
   ingredients_2: 140005

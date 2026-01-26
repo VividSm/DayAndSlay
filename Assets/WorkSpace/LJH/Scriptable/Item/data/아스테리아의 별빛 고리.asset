@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uC544\uC2A4\uD14C\uB9AC\uC544\uC758 \uBCC4\uBE5B \uACE0\uB9AC"
+  Name_En: Starlight Ring of Asteria
   Tier: 4
   Strength: 20
   Agility: 0
@@ -36,6 +37,8 @@ MonoBehaviour:
   SellPrice: 400
   ItemDescA: "\uBCC4\uC758 \uC5EC\uC2E0 \uC544\uC2A4\uD14C\uB9AC\uC544\uC758 \uCD95\uBCF5\uC774
     \uAE43\uB4E0 \uCE7C\uC9D1. \uC2EC\uC2E0\uC744 \uAC15\uD654\uC2DC\uD0A8\uB2E4."
+  ItemDesc_En: A scabbard blessed by Asteria. goddess of stars. Strengthens body
+    and mind.
   ingredients_1: 140118
   ingredients_1_Count: 1
   ingredients_2: 140109

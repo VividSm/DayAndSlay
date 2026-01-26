@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uBE5B \uBC14\uB79C \uC5E0\uBE14\uB818"
+  Name_En: Faded Emblem
   Tier: 1
   Strength: 3
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 100
   ItemDescA: "\uC0C9\uC774 \uBC14\uB79C \uC624\uB798\uB41C \uBB38\uC7A5. \uD76C\uBBF8\uD558\uAC8C
     \uC804\uAE30\uAC00 \uAC10\uB3C8\uB2E4."
+  ItemDesc_En: A faded ancient emblem. A faint current of electricity lingers.
   ingredients_1: 140124
   ingredients_1_Count: 1
   ingredients_2: 140004

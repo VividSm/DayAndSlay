@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uC190\uC9C8 \uC548 \uB41C \uD654\uC0B4\uCD09"
+  Name_En: Unrefined Arrowhead
   Tier: 0
   Strength: 0
   Agility: 0
@@ -34,8 +35,9 @@ MonoBehaviour:
   Range: 0
   BuyPrice: 0
   SellPrice: 0
-  ItemDescA: "\uC5F0\uB9C8\uB418\uC9C0 \uC54A\uC740 \uAE08\uC18D \uCD09. \uBB34\uB450\uC9C8
-    \uC804\uC758 \uB0A0 \uC7AC\uB8CC\uB2E4."
+  ItemDescA: "\uC5F0\uB9C8\uB418\uC9C0 \uC54A\uC740 \uAE08\uC18D \uCD09. \uC815\uC81C
+    \uC804 \uB2E8\uACC4\uC758 \uC6D0\uC7AC\uB8CC\uB2E4."
+  ItemDesc_En: An unpolished metal tip. A raw material before proper refinement.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

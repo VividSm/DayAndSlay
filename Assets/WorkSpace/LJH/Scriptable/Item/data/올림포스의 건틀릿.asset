@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 3
   ItemSet: 3
   Name: "\uC62C\uB9BC\uD3EC\uC2A4\uC758 \uAC74\uD2C0\uB9BF"
+  Name_En: Olympian Gauntlets
   Tier: 4
   Strength: 0
   Agility: 0
@@ -36,6 +37,8 @@ MonoBehaviour:
   SellPrice: 400
   ItemDescA: "\uC2E0\uB4E4\uC758 \uC0B0\uC5D0\uC11C \uB0B4\uB824\uC628 \uAC74\uD2C0\uB9BF.
     \uC808\uB300\uC790\uC758 \uD798\uC744 \uC190\uB05D\uC5D0 \uB2F4\uB294\uB2E4."
+  ItemDesc_En: "Gauntlets descended from the gods\u2019 mountain. Channel divine
+    power through the hands."
   ingredients_1: 140115
   ingredients_1_Count: 1
   ingredients_2: 140103

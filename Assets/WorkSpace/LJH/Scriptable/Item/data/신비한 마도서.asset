@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uC2E0\uBE44\uD55C \uB9C8\uB3C4\uC11C"
+  Name_En: Mystic Grimoire
   Tier: 2
   Strength: 0
   Agility: 0
@@ -36,6 +37,8 @@ MonoBehaviour:
   SellPrice: 200
   ItemDescA: "\uB9C8\uB825\uC774 \uC11C\uB9B0 \uC885\uC774. \uCD08\uAE09 \uC8FC\uBB38\uC5D0
     \uCD5C\uC801\uD654\uB41C \uAD6C\uBB38\uC774 \uC801\uD600 \uC788\uB2E4."
+  ItemDesc_En: Paper imbued with magic. Inscribed with formulas optimized for basic
+    spells.
   ingredients_1: 140109
   ingredients_1_Count: 1
   ingredients_2: 140001

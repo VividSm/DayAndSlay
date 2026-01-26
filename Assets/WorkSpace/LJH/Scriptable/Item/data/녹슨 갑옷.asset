@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 3
   ItemSet: 0
   Name: "\uB179\uC2A8 \uAC11\uC637"
+  Name_En: Rusty Armor
   Tier: 1
   Strength: 0
   Agility: 2
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 100
   ItemDescA: "\uC1E0\uC0AC\uC2AC\uC774 \uC5BD\uD78C \uB0A1\uC740 \uAC11\uC637. \uBC29\uC5B4\uB825\uC740
     \uB0AE\uC9C0\uB9CC \uC800\uB834\uD558\uB2E4."
+  ItemDesc_En: An old chain-linked armor. Low defense but inexpensive.
   ingredients_1: 140106
   ingredients_1_Count: 1
   ingredients_2: 140019

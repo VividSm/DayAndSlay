@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uBC34\uC2DC\uC758 \uC637\uC790\uB77D"
+  Name_En: Banshee Garment Shred
   Tier: 0
   Strength: 0
   Agility: 0
@@ -34,8 +35,10 @@ MonoBehaviour:
   Range: 0
   BuyPrice: 0
   SellPrice: 0
-  ItemDescA: "\uBC34\uC2DC\uAC00 \uC785\uACE0\uC788\uB358 \uC637 \uC870\uAC01\uC774\uB2E4.
-    \uD55C\uAE30\uAC00 \uB290\uAEF4\uC9C4\uB2E4."
+  ItemDescA: "\uBC34\uC2DC\uAC00 \uC785\uACE0 \uC788\uB358 \uC637\uC758 \uC870\uAC01.
+    \uC624\uC2F9\uD55C \uD55C\uAE30\uAC00 \uC2A4\uBA70 \uC788\uB2E4."
+  ItemDesc_En: A scrap of clothing once worn by a banshee. It emanates a chilling
+    cold.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

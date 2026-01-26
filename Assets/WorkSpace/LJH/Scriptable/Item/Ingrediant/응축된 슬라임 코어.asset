@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uC751\uCD95\uB41C \uC2AC\uB77C\uC784 \uCF54\uC5B4"
+  Name_En: Condensed Slime Core
   Tier: 0
   Strength: 0
   Agility: 0
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 0
   ItemDescA: "\uAC15\uD558\uAC8C \uC751\uCD95\uB41C \uC810\uC561 \uCF54\uC5B4. \uB4DC\uBB3C\uACE0
     \uAC15\uB825\uD55C \uD76C\uADC0 \uC7AC\uB8CC\uB2E4."
+  ItemDesc_En: A heavily condensed slime core. A rare and powerful material.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

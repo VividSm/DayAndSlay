@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 2
   ItemSet: 0
   Name: "\uBA85\uACC4\uC758 \uC190\uBAA9 \uBCF4\uD638\uB300"
+  Name_En: Underworld Bracers
   Tier: 3
   Strength: 0
   Agility: 0
@@ -36,6 +37,8 @@ MonoBehaviour:
   SellPrice: 300
   ItemDescA: "\uC800\uC2B9\uC758 \uBB38\uC591\uC774 \uC0C8\uACA8\uC9C4 \uC190\uBAA9
     \uBCF4\uD638\uB300. \uC0AC\uB839\uC758 \uC800\uC8FC\uB97C \uB9C9\uC544\uC900\uB2E4."
+  ItemDesc_En: Bracers engraved with underworld sigils. Protect against spectral
+    curses.
   ingredients_1: 140103
   ingredients_1_Count: 1
   ingredients_2: 140106

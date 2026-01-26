@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uD2B8\uB864 \uAC00\uC8FD"
+  Name_En: Troll Hide
   Tier: 0
   Strength: 0
   Agility: 0
@@ -34,8 +35,9 @@ MonoBehaviour:
   Range: 0
   BuyPrice: 0
   SellPrice: 0
-  ItemDescA: "\uB450\uAECD\uACE0 \uC9C8\uAE34 \uD2B8\uB864 \uAC00\uC8FD. \uB0B4\uAD6C\uC131\uC774
-    \uB6F0\uC5B4\uB09C \uC7AC\uB8CC\uB2E4."
+  ItemDescA: "\uB450\uAECD\uACE0 \uC9C8\uAE34 \uD2B8\uB864\uC758 \uAC00\uC8FD. \uB6F0\uC5B4\uB09C
+    \uB0B4\uAD6C\uC131\uC744 \uC9C0\uB2CC \uC7AC\uB8CC\uB2E4."
+  ItemDesc_En: Thick and tough troll hide. A material with exceptional durability.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0

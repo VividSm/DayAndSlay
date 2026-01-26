@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 2
   ItemSet: 0
   Name: "\uC0AC\uB0E5\uAFBC\uC758 \uC870\uB07C"
+  Name_En: "Hunter\u2019s Vest"
   Tier: 2
   Strength: 0
   Agility: 3
@@ -36,6 +37,7 @@ MonoBehaviour:
   SellPrice: 200
   ItemDescA: "\uC720\uC5F0\uD55C \uAC00\uC8FD \uC870\uB07C. \uC815\uCC30\uACFC \uC0AC\uB0E5\uC5D0
     \uC801\uD569\uD558\uB2E4."
+  ItemDesc_En: A flexible leather vest. Suitable for scouting and hunting.
   ingredients_1: 140103
   ingredients_1_Count: 1
   ingredients_2: 140002

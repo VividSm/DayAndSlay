@@ -23,6 +23,7 @@ MonoBehaviour:
   MaterialType: 0
   ItemSet: 0
   Name: "\uC810\uC561 \uC870\uAC01"
+  Name_En: Slime Fragment
   Tier: 0
   Strength: 0
   Agility: 0
@@ -35,7 +36,8 @@ MonoBehaviour:
   BuyPrice: 0
   SellPrice: 0
   ItemDescA: "\uC810\uC561\uC73C\uB85C \uBB49\uCCD0\uC9C4 \uBC29\uC6B8. \uB048\uC801\uAC70\uB9AC\uB294
-    \uC7AC\uB8CC\uB2E4."
+    \uC81C\uC791 \uC7AC\uB8CC\uB2E4."
+  ItemDesc_En: A droplet clumped together with slime. A sticky crafting material.
   ingredients_1: 0
   ingredients_1_Count: 0
   ingredients_2: 0
