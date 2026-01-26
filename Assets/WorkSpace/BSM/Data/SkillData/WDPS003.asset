@@ -37,3 +37,5 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 0
+  SkillNameEn: Spell Casting
+  SkillDescriptionEn: Pre-casts the fundamentals of a spell to increase casting speed.

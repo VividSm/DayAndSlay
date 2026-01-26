@@ -39,3 +39,5 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0.02
   DetectedCount: 9999
+  SkillNameEn: Moonlight Cleave
+  SkillDescriptionEn: Charges toward an enemy and slashes, briefly stunning them.

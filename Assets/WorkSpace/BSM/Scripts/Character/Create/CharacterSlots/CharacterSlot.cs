@@ -5,6 +5,8 @@ using System.Data;
 using TMPro;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.Localization;
+using UnityEngine.Localization.Settings;
 using UnityEngine.Serialization;
 using UnityEngine.UI;
 using Zenject;
@@ -43,6 +45,11 @@ public class CharacterSlot : BaseUI
     private string[] debtRange = new string[]
     {
         "빚이 조금 있음", "빚이 있음", "빚이 조금 많음", "빚이 많음", "빚이 매우 많음",
+    };
+
+    private string[] debtRangeEng = new[]
+    {
+        "Minor liabilities", "Indebted", "Significant debt", "Substantial debt", "Severely leveraged"
     };
     
     private void Start()
@@ -128,7 +135,7 @@ public class CharacterSlot : BaseUI
     /// </summary>
     private void SetInfo()
     {
-        currentDayText.text = $"{currentDay}일차"; 
+        currentDayText.text = $"+ {currentDay}"; 
         levelText.text = $"Lv.{level}"; 
     }
     
@@ -148,12 +155,20 @@ public class CharacterSlot : BaseUI
     {
         if (debt == 0)
         {
-            debtText.text = "빚이 없음"; 
+            debtText.text = " "; 
         }
         else
         {
             int index = (debt / 200000) > 4 ? 4 : debt / 200000;
-            debtText.text = debtRange[index];
+
+            if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+            {
+                debtText.text = debtRange[index];
+            }
+            else
+            {
+                debtText.text = debtRangeEng[index];
+            } 
         }
     }
     

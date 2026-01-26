@@ -39,3 +39,6 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0.03
   DetectedCount: 8
+  SkillNameEn: Echo of the Moon
+  SkillDescriptionEn: Lets out a roar as lunar energy echoes around, stunning and
+    damaging nearby enemies.

@@ -44,7 +44,16 @@ public class SkillSet : MonoBehaviour, IPointerClickHandler
     private void InitSkill()
     {
         skillIconImage.sprite = CurSkillNode.skillData.SkillIcon;
-        skillNameText.text = CurSkillNode.skillData.SkillName;
+
+        if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+        {
+            skillNameText.text = CurSkillNode.skillData.SkillName;
+        }
+        else
+        {
+            skillNameText.text = CurSkillNode.skillData.SkillNameEn;
+        }
+        
         UpdateSkillLevelUI();
     }
     

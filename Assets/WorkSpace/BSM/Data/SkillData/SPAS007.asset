@@ -39,3 +39,6 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 9999
+  SkillNameEn: Comet
+  SkillDescriptionEn: Slams the spear into the ground, dealing damage to nearby enemies
+    with the shockwave.

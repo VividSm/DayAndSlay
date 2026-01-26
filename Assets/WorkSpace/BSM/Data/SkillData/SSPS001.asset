@@ -36,3 +36,5 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 0
+  SkillNameEn: Moonlight
+  SkillDescriptionEn: The body becomes lighter, increasing movement speed.

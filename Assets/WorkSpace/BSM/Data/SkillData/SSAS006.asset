@@ -38,3 +38,6 @@ MonoBehaviour:
   SkillAbilityValue: 0.2
   SkillAbilityFactor: 0.05
   DetectedCount: 1
+  SkillNameEn: Shadow Blade
+  SkillDescriptionEn: "Channels strength into a powerful strike that weakens the
+    enemy\u2019s defense."

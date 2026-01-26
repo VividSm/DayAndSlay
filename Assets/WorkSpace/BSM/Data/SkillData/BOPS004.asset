@@ -37,3 +37,5 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 0
+  SkillNameEn: Lethal Arrow
+  SkillDescriptionEn: Attacks slice deeply into flesh, increasing critical damage.

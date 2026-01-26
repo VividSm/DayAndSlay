@@ -38,3 +38,5 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 1
+  SkillNameEn: Chrono Break
+  SkillDescriptionEn: "Shatters the target\u2019s space-time, dealing massive damage."

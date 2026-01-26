@@ -40,3 +40,5 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 9999
+  SkillNameEn: Arrow Rain
+  SkillDescriptionEn: Scatters magical arrows into the sky, raining arrows upon enemies.

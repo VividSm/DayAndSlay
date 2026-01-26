@@ -41,3 +41,6 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 9999
+  SkillNameEn: Leave Nothing Behind
+  SkillDescriptionEn: Drives a spear down from the heavens, annihilating nearby enemies
+    with the impact.

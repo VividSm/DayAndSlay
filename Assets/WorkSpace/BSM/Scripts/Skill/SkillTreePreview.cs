@@ -104,8 +104,19 @@ public class SkillTreePreview : MonoBehaviour
         if (!previewTab.activeSelf) previewTab.SetActive(true);
         
         selectedSkillNode = skillNode;
-        previewSkillNameText.text = skillNode.skillData.SkillName;
-        previewSkillDescriptionText.text = skillNode.skillData.SkillDescription;
+        if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+        {
+            previewSkillNameText.text = skillNode.skillData.SkillNameEn;
+            previewSkillDescriptionText.text = skillNode.skillData.SkillDescriptionEn;
+            //previewSkillNameText.text = skillNode.skillData.SkillName;
+            //previewSkillDescriptionText.text = skillNode.skillData.SkillDescription;
+        }
+        else
+        {
+            previewSkillNameText.text = skillNode.skillData.SkillNameEn;
+            previewSkillDescriptionText.text = skillNode.skillData.SkillDescriptionEn;
+        } 
+        
         previewSkillIcon.sprite = skillNode.skillData.SkillIcon;
         
         previewRegisterButton.gameObject.SetActive(selectedSkillNode.skillData.IsActive);
@@ -137,7 +148,14 @@ public class SkillTreePreview : MonoBehaviour
         {
             if (selectedSkillNode.PrerequisiteSkillNode[i].CurSkillLevel < 1)
             {
-                prerequisite += selectedSkillNode.PrerequisiteSkillNode[i].skillData.SkillName;
+                if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+                {
+                    prerequisite += selectedSkillNode.PrerequisiteSkillNode[i].skillData.SkillName;
+                }
+                else
+                {
+                    prerequisite += selectedSkillNode.PrerequisiteSkillNode[i].skillData.SkillNameEn;
+                } 
                 
                 if (i < prerequisiteCount - 1)
                 {
@@ -146,7 +164,14 @@ public class SkillTreePreview : MonoBehaviour
             } 
         } 
         
-        prerequisite += " 달성 필요";
+        if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+        {
+            prerequisite += " 달성 필요";
+        }
+        else
+        {
+            prerequisite += " Need to achieve";
+        }  
         previewSkillPrerequisiteText.text = prerequisite; 
     }
     

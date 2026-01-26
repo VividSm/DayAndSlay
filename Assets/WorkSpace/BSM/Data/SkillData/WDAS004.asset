@@ -39,3 +39,5 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 5
+  SkillNameEn: Meteor
+  SkillDescriptionEn: Summons a massive meteor to deal devastating damage.

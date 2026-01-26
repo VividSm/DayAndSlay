@@ -41,3 +41,6 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 9999
+  SkillNameEn: Moonlit Blade Dance
+  SkillDescriptionEn: Slashes enemies at blinding speed, as if performing a deadly
+    dance.

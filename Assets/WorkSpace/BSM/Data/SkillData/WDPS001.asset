@@ -37,3 +37,5 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 0
+  SkillNameEn: Arcane Surge
+  SkillDescriptionEn: Smooths the flow of mana, increasing magical attack power.

@@ -40,3 +40,5 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 9999
+  SkillNameEn: Thunder Field
+  SkillDescriptionEn: Opens a field of falling lightning to strike down enemies.

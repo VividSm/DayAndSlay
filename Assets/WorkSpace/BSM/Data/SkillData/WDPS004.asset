@@ -37,3 +37,6 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 0
+  SkillNameEn: Arcane Critical
+  SkillDescriptionEn: Maximizes magical destructive power, increasing critical hit
+    chance.

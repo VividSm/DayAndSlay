@@ -1,0 +1,52 @@
+﻿Key,Shared Comments,English(en),English(en) Comments,Korean(ko),Korean(ko) Comments
+"UI_Desc_Tab_Text","","<size=28>By default </size> <#C30332>Morning>Day>Night </color><size=28>The day is held with the root. </size>
+<size = 25>
+Morning: Sleeping and preparing for business
+Daytime: Business
+Night: Sleeping and Dunning Entrance</size>
+
+<size=30>The more debt you have, the less hair you have, and the more you pay off the debt, the more you recover from hair loss.
+Revival of the Store! </size>
+<b><#FF00E8>Growing Hair!!!</b></color>","","<size=28>기본적으로 </size><#C30332> 아침 > 낮 > 밤 </color><size=28>루틴으로 하루가 진행됩니다. </size>
+<size=25>
+아침 : 잠자기 및 장사 준비
+낮 : 장사
+밤 : 잠자기 및 던전 진입</size>
+
+<size=30>빚이 많아 질수록 머리숱이 줄어들고 빚을 갚아 갈 수록 탈모 증세가 회복됩니다.
+상점을 부흥시켜보세요! </size>
+<b><#FF00E8>자라나라 머리머리!!!</b></color>",""
+"UI_Desc_Tab_Title","","Desc","","설명",""
+"UI_Help_Button","","Help","","도움말",""
+"UI_Key_Tab_Title","","Keys","","조작법",""
+"UI_Map_Tab_Title","","Map","","지도",""
+"UI_UpKeep_Button","","Debt","","빚 현황",""
+"UI_Key_Q","","QuickSlot Q Use Skill","","퀵슬롯 Q 스킬 사용",""
+"UI_Key_W","","QuickSlot W Use Skill","","퀵슬롯 W 스킬 사용",""
+"UI_Key_E","","QuickSlot E Use Skill","","퀵슬롯 E 스킬 사용",""
+"UI_Key_R","","QuickSlot R Use Skill","","퀵슬롯 R 스킬 사용",""
+"UI_Key_A","","QuickSlot A Use Skill","","퀵슬롯 A 스킬 사용",""
+"UI_Key_S","","QuickSlot S Use Skill","","퀵슬롯 S 스킬 사용",""
+"UI_Key_D","","QuickSlot D Use Skill","","퀵슬롯 D 스킬 사용",""
+"UI_Key_F","","QuickSlot F Use Skill","","퀵슬롯 F 스킬 사용",""
+"UI_Key_Up","","Move Up","","위로 이동",""
+"UI_Key_Down","","Move Down","","아래로 이동",""
+"UI_Key_Left","","Move Left","","왼쪽 이동",""
+"UI_Key_Right","","Move Right","","오른쪽 이동",""
+"UI_Key_Attack","","Attack (Max Combo 3)","","기본 공격 (최대 3회)",""
+"UI_Key_Evade","","Weapon-specific evaders","","무기 별 회피기",""
+"UI_Key_Interaction","","NPC / Object Interaction","","NPC / 오브젝트 상호작용",""
+"UI_Key_Inventory","","Open Inventory","","인벤토리 창 오픈",""
+"UI_Key_Skill","","Open Skill","","스킬 창 오픈",""
+"UI_Key_Status","","Open Status","","상태 창 오픈",""
+"UI_Key_Recipe","","Open Recipe","","레시피 창 오픈",""
+"UI_Key_Menu","","Open Menu","","메뉴 창 오픈",""
+"UI_Dungeon_Map_1","","Brooding cave","","음침한 동굴",""
+"UI_Dungeon_Map_2","","Damp swamp","","축축한 늪지대",""
+"UI_Dungeon_Map_3","","Frozen mountain","","얼어붙은 산맥",""
+"UI_Dungeon_Map_Title","","Select Dungeon","","던전 선택",""
+"UI_Menu_Title","","Menu","","메뉴",""
+"UI_Menu_Continue","","Continue","","계속하기",""
+"UI_Menu_Option","","Option","","설정",""
+"UI_Menu_Main","","Main","","메인 메뉴",""
+"UI_Menu_Exit","","Exit","","종료하기",""

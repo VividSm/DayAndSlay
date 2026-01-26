@@ -32,7 +32,7 @@ public class SkillParser : MonoBehaviour
     private Dictionary<string, int> headerMap = new Dictionary<string, int>();
     
     //구글 시트 주소
-    private const string skillDataUrlPath = "https://docs.google.com/spreadsheets/d/1qy-UZH2OCVpJoAEroGsVQxFnvbZVeYt8-P1trYRojOk/export?format=tsv&range=B4:Y60&gid=117661071";
+    private const string skillDataUrlPath = "https://docs.google.com/spreadsheets/d/1qy-UZH2OCVpJoAEroGsVQxFnvbZVeYt8-P1trYRojOk/export?format=tsv&range=B4:AA60&gid=117661071";
 
     public void StartDownload(bool renameFiles)
     {
@@ -86,9 +86,13 @@ public class SkillParser : MonoBehaviour
         string skillId = rowData[headerMap["ID"]] ?? string.Empty;
               
         string skillName = rowData[headerMap["Name"]] ?? string.Empty;
-            
-        string skillDescription= rowData[headerMap["Description"]] ?? string.Empty;
-
+        
+        string skillNameEn = rowData[headerMap["Name_En"]] ?? string.Empty;
+        
+        string skillDescription = rowData[headerMap["Description"]] ?? string.Empty;
+        
+        string skillDescriptionEn = rowData[headerMap["Description_En"]] ?? string.Empty;
+ 
         string skillEffect = rowData[headerMap["Effect"]] ?? string.Empty;
 
         float skillCoolDown = 0f;
@@ -145,7 +149,7 @@ public class SkillParser : MonoBehaviour
 
         int detectedCount = 0;
         int.TryParse(rowData[headerMap["DetectedCount"]], out detectedCount);
-        
+          
         SkillData skillData = new SkillData();
         skillData = CreateSkillData(skillId);
         
@@ -162,7 +166,7 @@ public class SkillParser : MonoBehaviour
             skillIcon, (WeaponType)weaponType, skillDelay, 
             skillDelayDecreaseRate, skillRange, castingTime, skillHitCount, 
             active, buffDuration, deBuffDuration, prerequisiteSkillsId, 
-            skillRadiusRange, skillAbilityValue, skillAbilityFactor, detectedCount);
+            skillRadiusRange, skillAbilityValue, skillAbilityFactor, detectedCount, skillNameEn, skillDescriptionEn);
         
         EditorUtility.SetDirty(skillData);
         

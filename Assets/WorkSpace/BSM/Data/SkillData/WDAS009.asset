@@ -39,3 +39,6 @@ MonoBehaviour:
   SkillAbilityValue: 0.5
   SkillAbilityFactor: 0.1
   DetectedCount: 0
+  SkillNameEn: Archmage
+  SkillDescriptionEn: Temporarily transcends physical form, awakening the ultimate
+    state of magic and removing casting restrictions.

@@ -38,3 +38,5 @@ MonoBehaviour:
   SkillAbilityValue: 0.3
   SkillAbilityFactor: 0.03
   DetectedCount: 9999
+  SkillNameEn: Frozen Field
+  SkillDescriptionEn: Deploys an icy barrier that slows enemy movement.

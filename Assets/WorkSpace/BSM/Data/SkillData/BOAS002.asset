@@ -38,3 +38,5 @@ MonoBehaviour:
   SkillAbilityValue: 0.5
   SkillAbilityFactor: 0.05
   DetectedCount: 1
+  SkillNameEn: Silent Assassin
+  SkillDescriptionEn: Rapidly fires three arrows in quick succession.

@@ -38,3 +38,5 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 5
+  SkillNameEn: Earthquake
+  SkillDescriptionEn: Causes an earthquake that damages and stuns enemies.

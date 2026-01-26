@@ -39,3 +39,6 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 1
+  SkillNameEn: "Hunter\u2019s Mark"
+  SkillDescriptionEn: Fixates on the target before leaping in to deal massive damage
+    with a spear thrust.

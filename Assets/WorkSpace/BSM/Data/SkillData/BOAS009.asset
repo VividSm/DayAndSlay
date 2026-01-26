@@ -39,3 +39,5 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 9999
+  SkillNameEn: Venomous Mushroom
+  SkillDescriptionEn: Summons a mushroom that spreads poisonous spores.

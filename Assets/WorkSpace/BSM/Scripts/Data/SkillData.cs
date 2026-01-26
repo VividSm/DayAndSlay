@@ -31,6 +31,9 @@ public class SkillData : ScriptableObject
     public float SkillAbilityValue;
     public float SkillAbilityFactor;
     public int DetectedCount;
+
+    public string SkillNameEn;
+    public string SkillDescriptionEn;
     
     /// <summary>
     /// 스킬 이펙트 오브젝트 설정
@@ -92,7 +95,7 @@ public class SkillData : ScriptableObject
         float skillCoolDown, int skillMaxLevel, float skillDamage, float skillDamageIncreaseRate,
         string skillIcon, WeaponType requiredWeaponType, float skillDelay, float skillDelayDecreaseRate,
         float skillRange, float castingTime, int skillHitCount, int isActive, float buffDuration, float deBuffDuration, string prerequisiteSkillsId, float skillRadiusRange,
-        float skillAbilityValue, float skillAbilityFactor, int detectedCount)
+        float skillAbilityValue, float skillAbilityFactor, int detectedCount, string skillNameEn, string skillDescriptionEn)
     {
         this.SkillId = skillId;
         this.SkillName = skillName;
@@ -117,6 +120,9 @@ public class SkillData : ScriptableObject
         this.SkillAbilityValue = skillAbilityValue;
         this.SkillAbilityFactor = skillAbilityFactor;
         this.DetectedCount = detectedCount;
+        
+        this.SkillNameEn = skillNameEn;
+        this.SkillDescriptionEn = skillDescriptionEn;
     }
     
 } 
