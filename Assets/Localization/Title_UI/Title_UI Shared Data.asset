@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Title_UI Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Title_UI
+  m_TableCollectionNameGuidString: 290c578ac4c36d444b55d1e235464e06
+  m_Entries:
+  - m_Id: 7190637735936
+    m_Key: UI_Button_GameStart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7260804247552
+    m_Key: UI_Button_Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7312880726016
+    m_Key: UI_Button_Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7484276764672
+    m_Key: UI_Select_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8346885713920
+    m_Key: UI_Create_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8567627739136
+    m_Key: UI_Create_Hair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8620270448640
+    m_Key: UI_Create_Shirts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8742538604544
+    m_Key: UI_Create_Skin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8790701797376
+    m_Key: UI_Create_Weapon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8852173516800
+    m_Key: UI_Create_Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9038195093504
+    m_Key: UI_Setting_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9582561226752
+    m_Key: UI_Dispaly_Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9705282367488
+    m_Key: UI_Display_Window
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9796009357312
+    m_Key: UI_Display_Winodw_Full
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9880524582912
+    m_Key: UI_Display_Window_Window
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9954109452288
+    m_Key: UI_Display_Window_Border
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14902436065280
+    m_Key: UI_Display_Mous_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15026885259264
+    m_Key: UI_Display_Mous_On
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15083915210752
+    m_Key: UI_Display_Mous_Off
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3143663763631636504
+  references:
+    version: 2
+    RefIds:
+    - rid: 3143663763631636504
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1769392569636

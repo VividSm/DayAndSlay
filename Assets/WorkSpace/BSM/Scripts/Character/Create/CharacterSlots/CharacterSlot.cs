@@ -128,7 +128,7 @@ public class CharacterSlot : BaseUI
     /// </summary>
     private void SetInfo()
     {
-        currentDayText.text = $"{currentDay}일차"; 
+        currentDayText.text = $"+ {currentDay}"; 
         levelText.text = $"Lv.{level}"; 
     }
     
@@ -148,7 +148,7 @@ public class CharacterSlot : BaseUI
     {
         if (debt == 0)
         {
-            debtText.text = "빚이 없음"; 
+            debtText.text = " "; 
         }
         else
         {
