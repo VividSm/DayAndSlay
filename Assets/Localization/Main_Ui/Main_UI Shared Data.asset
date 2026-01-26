@@ -155,6 +155,18 @@ MonoBehaviour:
     m_Key: UI_Menu_Exit
     m_Metadata:
       m_Items: []
+  - m_Id: 34890760876032
+    m_Key: UI_QuickSlot_Selected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35313412501504
+    m_Key: UI_Skill_NotWeapon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35696155324416
+    m_Key: UI_Skill_Notice
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

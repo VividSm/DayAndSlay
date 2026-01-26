@@ -40,3 +40,6 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 3
+  SkillNameEn: Mountainlike Authority
+  SkillDescriptionEn: Emits overwhelming authority, intimidating nearby enemies and
+    dealing continuous damage.

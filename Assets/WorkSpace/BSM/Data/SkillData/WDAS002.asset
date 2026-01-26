@@ -38,3 +38,6 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 5
+  SkillNameEn: Explosion
+  SkillDescriptionEn: Unleashes an explosive burst of fire, inflicting burn damage
+    on enemies.

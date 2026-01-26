@@ -38,3 +38,5 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 3
+  SkillNameEn: "Earth\u2019s Malice"
+  SkillDescriptionEn: "Calls upon earth spirits to restrain enemies\u2019 feet."

@@ -38,3 +38,5 @@ MonoBehaviour:
   SkillAbilityValue: 0.2
   SkillAbilityFactor: 0.1
   DetectedCount: 0
+  SkillNameEn: Mana Shield
+  SkillDescriptionEn: Greatly increases defense through magical power.

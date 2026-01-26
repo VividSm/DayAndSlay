@@ -36,3 +36,5 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 1
+  SkillNameEn: Crescent Moon Slash
+  SkillDescriptionEn: Slashes an enemy with a blade.

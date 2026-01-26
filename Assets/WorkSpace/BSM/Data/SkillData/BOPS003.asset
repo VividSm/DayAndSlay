@@ -37,3 +37,5 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 0
+  SkillNameEn: Swift Movement
+  SkillDescriptionEn: Moves swiftly, increasing movement speed.

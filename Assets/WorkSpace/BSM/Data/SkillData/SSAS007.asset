@@ -38,3 +38,6 @@ MonoBehaviour:
   SkillAbilityValue: 0.2
   SkillAbilityFactor: 0.05
   DetectedCount: 0
+  SkillNameEn: 'Corruption: Moon'
+  SkillDescriptionEn: Corrupted by lunar energy, increasing attack power at the cost
+    of reduced defense.

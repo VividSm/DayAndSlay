@@ -38,3 +38,5 @@ MonoBehaviour:
   SkillAbilityValue: 0.5
   SkillAbilityFactor: 0.1
   DetectedCount: 0
+  SkillNameEn: Focus
+  SkillDescriptionEn: Focuses the mind to increase the power of the next skill used.

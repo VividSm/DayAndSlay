@@ -38,3 +38,5 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 1
   DetectedCount: 0
+  SkillNameEn: Harmony with Nature
+  SkillDescriptionEn: Blends into nature, evading enemy attacks.

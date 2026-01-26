@@ -38,3 +38,5 @@ MonoBehaviour:
   SkillAbilityValue: 0.25
   SkillAbilityFactor: 0.03
   DetectedCount: 0
+  SkillNameEn: Breath of Dawn
+  SkillDescriptionEn: Lightens footsteps to increase movement speed.

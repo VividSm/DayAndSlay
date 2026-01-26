@@ -37,3 +37,5 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 0
+  SkillNameEn: Shadow Assimilation
+  SkillDescriptionEn: Trains the mind to gain resistance against status effects.

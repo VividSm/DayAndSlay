@@ -6,15 +6,17 @@ using UnityEngine.Localization.Settings;
 
 public class LocalizationManager : MonoBehaviour
 {
+    public static SystemLanguage CurrentLanguage;
+    
     private IEnumerator Start()
     {
 
         yield return LocalizationSettings.InitializationOperation;
 
-        SystemLanguage currentLanguage = Application.systemLanguage;
+        CurrentLanguage = Application.systemLanguage;
         
         //시스템 언어에 따른 언어 설정
-        if (currentLanguage == SystemLanguage.Korean)
+        if (CurrentLanguage == SystemLanguage.Korean)
         {
             LocalizationSettings.SelectedLocale = LocalizationSettings.AvailableLocales.Locales[1];
         }

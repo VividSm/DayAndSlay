@@ -37,3 +37,5 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 0
+  SkillNameEn: Way of the Wind
+  SkillDescriptionEn: The body becomes lighter, increasing agility and attack speed.

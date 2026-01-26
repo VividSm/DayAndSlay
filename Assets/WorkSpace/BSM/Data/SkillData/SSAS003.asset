@@ -38,3 +38,5 @@ MonoBehaviour:
   SkillAbilityValue: 0.12
   SkillAbilityFactor: 0.02
   DetectedCount: 3
+  SkillNameEn: Moonlight Flurry
+  SkillDescriptionEn: Swiftly slashes an enemy twice, breaking their defense.

@@ -38,3 +38,5 @@ MonoBehaviour:
   SkillAbilityValue: 0.05
   SkillAbilityFactor: 0.01
   DetectedCount: 3
+  SkillNameEn: Spear of the Lion
+  SkillDescriptionEn: Throws the spear to inflict bleeding upon a successful hit.

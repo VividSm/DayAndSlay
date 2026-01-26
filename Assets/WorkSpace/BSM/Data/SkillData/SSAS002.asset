@@ -38,3 +38,5 @@ MonoBehaviour:
   SkillAbilityValue: 0.3
   SkillAbilityFactor: 0.05
   DetectedCount: 3
+  SkillNameEn: Moon Etching
+  SkillDescriptionEn: Swings the sword in a wide arc, cutting down nearby enemies.

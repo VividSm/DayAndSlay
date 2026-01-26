@@ -39,3 +39,6 @@ MonoBehaviour:
   SkillAbilityValue: 0.3
   SkillAbilityFactor: 0.05
   DetectedCount: 2
+  SkillNameEn: First Strike
+  SkillDescriptionEn: Fires a warning shot that frightens enemies, reducing their
+    attack power.

@@ -36,3 +36,5 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 3
+  SkillNameEn: Power of the Wind
+  SkillDescriptionEn: Swings the bow forcefully to knock enemies back.

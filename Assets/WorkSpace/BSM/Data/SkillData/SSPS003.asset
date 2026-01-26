@@ -37,3 +37,6 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 0
+  SkillNameEn: Blessing of the Moon
+  SkillDescriptionEn: Lunar energy reflects a portion of incoming damage back at
+    enemies.

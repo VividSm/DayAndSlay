@@ -39,3 +39,6 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 9999
+  SkillNameEn: Poison Mist
+  SkillDescriptionEn: Spreads a specially researched poison, intoxicating nearby
+    enemies.

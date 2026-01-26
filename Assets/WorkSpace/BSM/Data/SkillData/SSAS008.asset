@@ -38,3 +38,6 @@ MonoBehaviour:
   SkillAbilityValue: 0.5
   SkillAbilityFactor: 0.05
   DetectedCount: 0
+  SkillNameEn: 'Corruption: Shadow'
+  SkillDescriptionEn: Corrupted by shadow energy, increasing defense but slowing
+    movement speed.

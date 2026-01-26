@@ -38,3 +38,5 @@ MonoBehaviour:
   SkillAbilityValue: 0.12
   SkillAbilityFactor: 0.02
   DetectedCount: 1
+  SkillNameEn: Piercing Steel
+  SkillDescriptionEn: Rapid consecutive thrusts pierce through enemy defenses.

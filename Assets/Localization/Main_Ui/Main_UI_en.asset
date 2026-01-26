@@ -180,6 +180,18 @@ MonoBehaviour:
     m_Localized: Exit
     m_Metadata:
       m_Items: []
+  - m_Id: 34890760876032
+    m_Localized: Please select a quick slot.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35313412501504
+    m_Localized: There is no weapon equipped. :( Please install the weapon.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 35696155324416
+    m_Localized: Move Inventory
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

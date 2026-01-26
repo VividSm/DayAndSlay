@@ -38,3 +38,6 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 9999
+  SkillNameEn: Charge
+  SkillDescriptionEn: Charges an enemy and pierces them with a spear, briefly stunning
+    them.

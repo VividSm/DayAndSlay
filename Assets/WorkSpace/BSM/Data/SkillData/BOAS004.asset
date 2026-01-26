@@ -39,3 +39,5 @@ MonoBehaviour:
   SkillAbilityValue: 0
   SkillAbilityFactor: 0
   DetectedCount: 5
+  SkillNameEn: Unseen Death
+  SkillDescriptionEn: Arrows pierce through enemies, striking targets behind them.

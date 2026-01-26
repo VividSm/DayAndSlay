@@ -38,3 +38,6 @@ MonoBehaviour:
   SkillAbilityValue: 0.06
   SkillAbilityFactor: 0.01
   DetectedCount: 0
+  SkillNameEn: Will of Steel
+  SkillDescriptionEn: Assumes a defensive stance, reducing incoming damage and restoring
+    health.
