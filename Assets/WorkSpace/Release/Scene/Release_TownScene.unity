@@ -45714,15 +45714,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7295438812002020961, guid: ac5e9c363101e8147940c3664c3030e1, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7295438812002020961, guid: ac5e9c363101e8147940c3664c3030e1, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7295438812002020961, guid: ac5e9c363101e8147940c3664c3030e1, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 0
+      value: -17
       objectReference: {fileID: 0}
     - target: {fileID: 7295438812662666304, guid: ac5e9c363101e8147940c3664c3030e1, type: 3}
       propertyPath: door

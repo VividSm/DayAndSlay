@@ -119,6 +119,42 @@ MonoBehaviour:
     m_Key: UI_Key_Menu
     m_Metadata:
       m_Items: []
+  - m_Id: 7088217026560
+    m_Key: UI_Dungeon_Map_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7244282884096
+    m_Key: UI_Dungeon_Map_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7258132475904
+    m_Key: UI_Dungeon_Map_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7673167245312
+    m_Key: UI_Dungeon_Map_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13384307732480
+    m_Key: UI_Menu_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13529904607232
+    m_Key: UI_Menu_Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13679267966976
+    m_Key: UI_Menu_Option
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13799661268992
+    m_Key: UI_Menu_Main
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13914140602368
+    m_Key: UI_Menu_Exit
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

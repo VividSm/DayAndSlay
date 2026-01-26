@@ -144,6 +144,42 @@ MonoBehaviour:
     m_Localized: Open Menu
     m_Metadata:
       m_Items: []
+  - m_Id: 7088217026560
+    m_Localized: Brooding cave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7244282884096
+    m_Localized: Damp swamp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7258132475904
+    m_Localized: Frozen mountain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7673167245312
+    m_Localized: Select Dungeon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13384307732480
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13529904607232
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13679267966976
+    m_Localized: Option
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13799661268992
+    m_Localized: Main
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13914140602368
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
