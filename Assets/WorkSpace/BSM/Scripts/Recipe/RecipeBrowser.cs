@@ -36,7 +36,7 @@ public class RecipeBrowser : MonoBehaviour, IPointerClickHandler
 
     private List<string> subWeaponSubCategoryOptions = new List<string>()
     {
-        "전체", "화살통", "미정이", "엠블렘", "마도서"
+        "전체", "화살통", "칼집", "엠블렘", "마도서"
     };
 
     private List<string> allSubCategoryOptions = new List<string>()
@@ -49,6 +49,29 @@ public class RecipeBrowser : MonoBehaviour, IPointerClickHandler
         "전체", "모자", "상의", "하의", "장갑", "신발"
     };
 
+    //-----------------------------
+    private List<string> mainWeaponSubCategoryOptionsEn = new List<string>()
+    {
+        "All", "Bow", "Sword", "Spear", "Wand"
+    };
+
+    private List<string> subWeaponSubCategoryOptionsEn = new List<string>()
+    {
+        "All", "Quiver", "Sheath", "Emblem", "Grimoire"
+    };
+
+    private List<string> allSubCategoryOptionsEn = new List<string>()
+    {
+        "All"
+    };
+    
+    private List<string> armorSubCategoryOptionsEn = new List<string>()
+    {
+        "All", "Hat", "Top", "Pants", "Glove", "Shose"
+    };
+    
+    
+    
     private List<string> accessorySubCategoryOptions = new List<string>()
     {
         "전체", "망토", "팔찌", "미정이2", "미정이3"
@@ -158,20 +181,52 @@ public class RecipeBrowser : MonoBehaviour, IPointerClickHandler
         switch (value)
         {
             case 0:
-                subCategoryDropdown.AddOptions(allSubCategoryOptions);
+                if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+                {
+                    subCategoryDropdown.AddOptions(allSubCategoryOptions);
+                }
+                else
+                {
+                    subCategoryDropdown.AddOptions(allSubCategoryOptionsEn);
+                }
+                
                 break;
             case 1:
-                subCategoryDropdown.AddOptions(mainWeaponSubCategoryOptions);
+                if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+                {
+                    subCategoryDropdown.AddOptions(mainWeaponSubCategoryOptions);
+                }
+                else
+                {
+                    subCategoryDropdown.AddOptions(mainWeaponSubCategoryOptionsEn);
+                }
+                
                 break;
             case 2:
-                subCategoryDropdown.AddOptions(subWeaponSubCategoryOptions);
+                if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+                {
+                    subCategoryDropdown.AddOptions(subWeaponSubCategoryOptions);
+                }
+                else
+                {
+                    subCategoryDropdown.AddOptions(subWeaponSubCategoryOptionsEn);
+                }
+                
                 break;
             case 3:
-                subCategoryDropdown.AddOptions(armorSubCategoryOptions);
+
+                if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+                {
+                    subCategoryDropdown.AddOptions(armorSubCategoryOptions);
+                }
+                else
+                {
+                    subCategoryDropdown.AddOptions(armorSubCategoryOptionsEn);
+                }
                 break;
-            case 4:
-                subCategoryDropdown.AddOptions(accessorySubCategoryOptions);
-                break;
+            //case 4:
+            //    subCategoryDropdown.AddOptions(accessorySubCategoryOptions);
+            //    break;
         }
 
         mainCategoryValue = value;

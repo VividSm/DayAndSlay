@@ -185,11 +185,25 @@ public class InventoryInteraction :
         
         if (selectedSlot.IsEquip)
         {
-            equipStateButtonText.text = "장착 해제";
+            if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+            {
+                equipStateButtonText.text = "장착 해제";
+            }
+            else
+            {
+                equipStateButtonText.text = "UnEquip";
+            }
         }
         else
         {
-            equipStateButtonText.text = "장착";
+            if (LocalizationManager.CurrentLanguage == SystemLanguage.Korean)
+            {
+                equipStateButtonText.text = "장착";
+            }
+            else
+            {
+                equipStateButtonText.text = "Equip";
+            }
         }  
     }
     

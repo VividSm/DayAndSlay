@@ -52,11 +52,11 @@ MonoBehaviour:
       Night: Sleeping
       and Dunning Entrance</size>
 
-      
 
-      <size=30>The more debt you have,
-      the less hair you have, and the more you pay off the debt, the more you recover
-      from hair loss.
+
+      <size=30>The more debt you have, the less
+      hair you have, and the more you pay off the debt, the more you recover from
+      hair loss.
 
       Revival of the Store! </size>
 
@@ -190,6 +190,20 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 35696155324416
     m_Localized: Move Inventory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335143888252928
+    m_Localized: Save..
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335482234368000
+    m_Localized: 'Failed to save.
+
+      Please try again.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335734899240960
+    m_Localized: Confirm
     m_Metadata:
       m_Items: []
   references:

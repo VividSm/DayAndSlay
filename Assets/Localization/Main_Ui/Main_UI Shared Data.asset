@@ -167,6 +167,18 @@ MonoBehaviour:
     m_Key: UI_Skill_Notice
     m_Metadata:
       m_Items: []
+  - m_Id: 335143888252928
+    m_Key: UI_SavePanel_Blink
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335482234368000
+    m_Key: UI_SavePanel_SaveFail
+    m_Metadata:
+      m_Items: []
+  - m_Id: 335734899240960
+    m_Key: UI_Button_Confirm
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
