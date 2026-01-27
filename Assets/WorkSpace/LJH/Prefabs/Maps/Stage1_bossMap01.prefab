@@ -12300,7 +12300,7 @@ MonoBehaviour:
   spawnerList:
   - {fileID: 696898736731085224}
   monsterList: []
-  floorTilemap: {fileID: 5999558815936135094}
+  roadTilemap: {fileID: 6956128158514611482}
   wallTilemap: {fileID: 2120113949619088283}
   player: {fileID: 0}
   stone: {fileID: 4816707103895395301}
